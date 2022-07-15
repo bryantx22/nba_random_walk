@@ -1,0 +1,461 @@
+time,away_description,away_change,score,home_change,home_description
+11:40.0,O. Porter makes 2-pt jump shot from 20 ft (assist by B. Beal),+2,2-0, , 
+11:18.0, , ,2-2,+2,D. Nowitzki makes 2-pt jump shot from 13 ft (assist by D. Smith)
+10:55.0,J. Wall makes 2-pt jump shot from 18 ft,+2,4-2, , 
+10:40.0, , ,4-2, ,M. Kleber misses 2-pt layup from 1 ft (block by J. Wall)
+10:37.0,Defensive rebound by M. Morris, ,4-2, , 
+10:30.0,M. Gortat misses 2-pt hook shot from 8 ft, ,4-2, , 
+10:28.0, , ,4-2, ,Defensive rebound by Team
+10:13.0, , ,4-4,+2,W. Matthews makes 2-pt jump shot from 3 ft
+9:58.0,Turnover by O. Porter (lost ball; steal by H. Barnes), ,4-4, , 
+9:54.0, , ,4-6,+2,D. Smith makes 2-pt dunk from 1 ft (assist by M. Kleber)
+9:40.0,B. Beal misses 2-pt jump shot from 12 ft, ,4-6, , 
+9:36.0, , ,4-6, ,Defensive rebound by M. Kleber
+9:23.0, , ,4-6, ,D. Smith misses 3-pt jump shot from 25 ft
+9:20.0,Defensive rebound by O. Porter, ,4-6, , 
+9:10.0,J. Wall makes 2-pt jump shot from 15 ft,+2,6-6, , 
+8:49.0, , ,6-6, ,M. Kleber misses 3-pt jump shot from 22 ft
+8:45.0,Defensive rebound by B. Beal, ,6-6, , 
+8:38.0,M. Gortat makes 2-pt layup from 1 ft (assist by J. Wall),+2,8-6, , 
+8:15.0, , ,8-8,+2,H. Barnes makes 2-pt jump shot from 20 ft
+8:02.0,Shooting foul by D. Smith (drawn by J. Wall), ,8-8, , 
+8:02.0,J. Wall makes free throw 1 of 2,+1,9-8, , 
+8:02.0,J. Wall misses free throw 2 of 2, ,9-8, , 
+7:59.0, , ,9-8, ,Defensive rebound by M. Kleber
+7:44.0, , ,9-8, ,D. Nowitzki misses 3-pt jump shot from 25 ft
+7:42.0,Defensive rebound by M. Morris, ,9-8, , 
+7:35.0,M. Morris misses 3-pt jump shot from 25 ft, ,9-8, , 
+7:32.0,Offensive rebound by M. Gortat, ,9-8, , 
+7:26.0,M. Gortat misses 2-pt layup from 1 ft (block by M. Kleber), ,9-8, , 
+7:24.0,Offensive rebound by M. Gortat, ,9-8, , 
+7:23.0,M. Gortat misses 2-pt layup from 1 ft (block by H. Barnes), ,9-8, , 
+7:21.0, , ,9-8, ,Defensive rebound by D. Nowitzki
+7:13.0, , ,9-10,+2,M. Kleber makes 2-pt dunk from 1 ft (assist by D. Smith)
+6:58.0,B. Beal makes 3-pt jump shot from 25 ft (assist by J. Wall),+3,12-10, , 
+6:56.0, , ,12-10, ,Dallas full timeout
+6:56.0, , ,12-10, ,S. Mejri enters the game for D. Nowitzki
+6:46.0, , ,12-10, ,Turnover by W. Matthews (bad pass; steal by O. Porter)
+6:38.0,B. Beal makes 2-pt jump shot from 14 ft,+2,14-10, , 
+6:19.0, , ,14-13,+3,W. Matthews makes 3-pt jump shot from 26 ft (assist by D. Smith)
+6:10.0,B. Beal misses 3-pt jump shot from 25 ft, ,14-13, , 
+6:05.0, , ,14-13, ,Defensive rebound by M. Kleber
+5:58.0, , ,14-15,+2,D. Smith makes 2-pt jump shot from 20 ft
+5:41.0,Turnover by J. Wall (lost ball; steal by D. Smith), ,14-15, , 
+5:31.0, , ,14-15, ,W. Matthews misses 2-pt jump shot from 13 ft
+5:30.0, , ,14-15, ,Offensive rebound by S. Mejri
+5:30.0, , ,14-15, ,S. Mejri misses 2-pt layup at rim
+5:30.0, , ,14-15, ,Offensive rebound by Team
+5:19.0, , ,14-17,+2,H. Barnes makes 2-pt jump shot from 6 ft
+5:01.0,B. Beal misses 2-pt jump shot from 13 ft, ,14-17, , 
+4:58.0, , ,14-17, ,Defensive rebound by H. Barnes
+4:40.0, , ,14-20,+3,W. Matthews makes 3-pt jump shot from 30 ft (assist by S. Mejri)
+4:26.0,J. Wall misses 2-pt layup from 1 ft, ,14-20, , 
+4:21.0,Offensive rebound by M. Gortat, ,14-20, , 
+4:21.0,M. Gortat makes 2-pt layup at rim,+2,16-20, , 
+4:04.0, , ,16-20, ,H. Barnes misses 2-pt layup from 3 ft (block by O. Porter)
+4:04.0, , ,16-20, ,Offensive rebound by S. Mejri
+4:04.0, , ,16-20, ,Shooting foul by O. Porter (drawn by S. Mejri)
+4:04.0, , ,16-20, ,S. Mejri misses free throw 1 of 2
+4:04.0, , ,16-20, ,Offensive rebound by Team
+4:04.0, , ,16-20, ,Y. Ferrell enters the game for M. Kleber
+4:04.0,K. Oubre enters the game for M. Gortat, ,16-20, , 
+4:04.0,I. Mahinmi enters the game for O. Porter, ,16-20, , 
+4:04.0, , ,16-20, ,S. Mejri misses free throw 2 of 2
+4:02.0,Defensive rebound by M. Morris, ,16-20, , 
+3:52.0,I. Mahinmi makes 2-pt dunk from 1 ft (assist by J. Wall),+2,18-20, , 
+3:33.0, , ,18-20, ,H. Barnes misses 3-pt jump shot from 25 ft
+3:32.0,Defensive rebound by K. Oubre, ,18-20, , 
+3:22.0,J. Wall makes 2-pt jump shot from 17 ft,+2,20-20, , 
+3:10.0, , ,20-20, ,Personal foul by K. Oubre (drawn by H. Barnes)
+3:10.0, , ,20-20, ,J. Barea enters the game for D. Smith
+3:03.0, , ,20-20, ,Turnover by S. Mejri (bad pass)
+2:54.0,J. Wall misses 2-pt layup at rim (block by S. Mejri), ,20-20, , 
+2:51.0, , ,20-20, ,Defensive rebound by J. Barea
+2:43.0, , ,20-20, ,H. Barnes misses 2-pt jump shot from 7 ft
+2:40.0, , ,20-20, ,Offensive rebound by S. Mejri
+2:40.0, , ,20-22,+2,S. Mejri makes 2-pt layup at rim
+2:40.0,Washington full timeout, ,20-22, , 
+2:40.0,M. Scott enters the game for B. Beal, ,20-22, , 
+2:40.0,J. Meeks enters the game for M. Morris, ,20-22, , 
+2:27.0,Personal foul by Y. Ferrell (drawn by J. Wall), ,20-22, , 
+2:27.0, , ,20-22, ,K. Collinsworth enters the game for W. Matthews
+2:27.0, , ,20-22, ,D. Powell enters the game for H. Barnes
+2:18.0,K. Oubre misses 2-pt jump shot from 13 ft, ,20-22, , 
+2:15.0,Offensive rebound by I. Mahinmi, ,20-22, , 
+2:14.0,I. Mahinmi makes 2-pt layup from 1 ft,+2,22-22, , 
+2:04.0, , ,22-22, ,J. Barea misses 2-pt jump shot from 17 ft
+2:04.0,Defensive rebound by M. Scott, ,22-22, , 
+1:51.0,I. Mahinmi misses 2-pt layup from 3 ft (block by D. Powell), ,22-22, , 
+1:47.0, , ,22-22, ,Defensive rebound by Y. Ferrell
+1:25.0, , ,22-22, ,Y. Ferrell misses 2-pt layup from 3 ft
+1:23.0, , ,22-22, ,Offensive rebound by S. Mejri
+1:19.0, , ,22-22, ,Y. Ferrell misses 3-pt jump shot from 24 ft
+1:16.0,Defensive rebound by Team, ,22-22, , 
+1:16.0, , ,22-22, ,D. Nowitzki enters the game for S. Mejri
+1:11.0,J. Smith enters the game for I. Mahinmi, ,22-22, , 
+1:06.0,J. Wall misses 2-pt layup from 1 ft, ,22-22, , 
+1:04.0, , ,22-22, ,Defensive rebound by D. Nowitzki
+0:53.0, , ,22-22, ,D. Nowitzki misses 2-pt jump shot from 19 ft
+0:50.0,Defensive rebound by K. Oubre, ,22-22, , 
+0:43.0,Personal foul by K. Collinsworth (drawn by J. Meeks), ,22-22, , 
+0:34.0,Turnover by J. Wall (lost ball; steal by K. Collinsworth), ,22-22, , 
+0:15.0, , ,22-22, ,J. Barea misses 3-pt jump shot from 26 ft
+0:14.0, , ,22-22, ,Offensive rebound by Team
+0:14.0,Loose ball foul by M. Scott (drawn by D. Nowitzki), ,22-22, , 
+0:14.0, , ,22-22, ,W. Matthews enters the game for K. Collinsworth
+0:00.0, , ,22-22, ,Y. Ferrell misses 3-pt jump shot from 24 ft
+0:00.0, , ,22-22, ,Offensive rebound by Team
+11:48.0, , ,22-24,+2,Y. Ferrell makes 2-pt layup from 1 ft
+11:28.0,Personal foul by K. Collinsworth (drawn by M. Scott), ,22-24, , 
+11:24.0,J. Meeks misses 2-pt jump shot from 10 ft, ,22-24, , 
+11:21.0, , ,22-24, ,Defensive rebound by D. Powell
+11:15.0, , ,22-24, ,Personal foul by M. Scott (drawn by D. Powell)
+11:12.0, , ,22-24, ,Turnover by K. Collinsworth (bad pass; steal by K. Oubre)
+11:07.0,M. Scott misses 2-pt dunk at rim, ,22-24, , 
+11:05.0, , ,22-24, ,Defensive rebound by D. Powell
+10:57.0, , ,22-24, ,J. Barea misses 2-pt jump shot from 9 ft
+10:55.0,Defensive rebound by M. Scott, ,22-24, , 
+10:48.0,T. Satoranský makes 2-pt jump shot from 17 ft,+2,24-24, , 
+10:32.0, , ,24-24, ,Shooting foul by M. Scott (drawn by J. Barea)
+10:32.0, , ,24-25,+1,J. Barea makes free throw 1 of 2
+10:32.0,O. Porter enters the game for M. Scott, ,24-25, , 
+10:32.0, , ,24-26,+1,J. Barea makes free throw 2 of 2
+10:18.0,J. Meeks misses 3-pt jump shot from 22 ft, ,24-26, , 
+10:16.0, , ,24-26, ,Defensive rebound by D. Powell
+10:05.0, , ,24-28,+2,D. Powell makes 2-pt hook shot from 4 ft (assist by J. Barea)
+9:50.0,K. Oubre misses 2-pt jump shot from 3 ft, ,24-28, , 
+9:47.0, , ,24-28, ,Defensive rebound by J. Barea
+9:43.0, , ,24-28, ,Y. Ferrell misses 2-pt layup from 3 ft
+9:43.0,Defensive rebound by Team, ,24-28, , 
+9:30.0,J. Smith misses 2-pt jump shot from 19 ft, ,24-28, , 
+9:27.0, , ,24-28, ,Defensive rebound by K. Collinsworth
+9:10.0, , ,24-30,+2,J. Barea makes 2-pt jump shot from 6 ft
+9:10.0,Washington full timeout, ,24-30, , 
+8:56.0,K. Oubre misses 2-pt jump shot from 3 ft (block by D. Nowitzki), ,24-30, , 
+8:53.0, , ,24-30, ,Defensive rebound by D. Nowitzki
+8:45.0, , ,24-30, ,D. Nowitzki misses 2-pt jump shot from 21 ft
+8:43.0,Defensive rebound by O. Porter, ,24-30, , 
+8:31.0,O. Porter misses 3-pt jump shot from 25 ft, ,24-30, , 
+8:29.0, , ,24-30, ,Defensive rebound by Y. Ferrell
+8:18.0, , ,24-30, ,Y. Ferrell misses 2-pt jump shot from 20 ft
+8:15.0,Defensive rebound by J. Meeks, ,24-30, , 
+8:10.0,O. Porter misses 3-pt jump shot from 25 ft, ,24-30, , 
+8:06.0, , ,24-30, ,Defensive rebound by K. Collinsworth
+7:56.0, , ,24-32,+2,Y. Ferrell makes 2-pt jump shot from 4 ft (assist by D. Nowitzki)
+7:36.0,J. Meeks makes 2-pt layup from 1 ft (assist by T. Satoranský),+2,26-32, , 
+7:22.0, , ,26-32, ,Y. Ferrell misses 2-pt layup from 1 ft
+7:20.0, , ,26-32, ,Offensive rebound by D. Powell
+7:14.0, , ,26-34,+2,Y. Ferrell makes 2-pt layup from 1 ft (assist by K. Collinsworth)
+7:11.0,Washington full timeout, ,26-34, , 
+7:11.0, , ,26-34, ,W. Matthews enters the game for K. Collinsworth
+7:11.0, , ,26-34, ,D. Smith enters the game for Y. Ferrell
+7:11.0, , ,26-34, ,H. Barnes enters the game for D. Nowitzki
+7:11.0,B. Beal enters the game for J. Smith, ,26-34, , 
+7:11.0,M. Morris enters the game for J. Meeks, ,26-34, , 
+7:11.0,J. Wall enters the game for T. Satoranský, ,26-34, , 
+7:00.0,O. Porter misses 2-pt hook shot from 3 ft, ,26-34, , 
+6:58.0, , ,26-34, ,Defensive rebound by D. Powell
+6:46.0, , ,26-34, ,J. Barea misses 2-pt jump shot from 19 ft
+6:44.0, , ,26-34, ,Offensive rebound by H. Barnes
+6:31.0, , ,26-37,+3,H. Barnes makes 3-pt jump shot from 23 ft (assist by D. Smith)
+6:15.0,B. Beal misses 2-pt jump shot from 12 ft, ,26-37, , 
+6:14.0, , ,26-37, ,Defensive rebound by Team
+6:05.0, , ,26-37, ,Turnover by D. Smith (bad pass; steal by O. Porter)
+6:01.0,K. Oubre makes 2-pt dunk at rim (assist by J. Wall),+2,28-37, , 
+5:37.0, , ,28-40,+3,W. Matthews makes 3-pt jump shot from 25 ft (assist by D. Smith)
+5:10.0,J. Wall misses 2-pt jump shot from 17 ft, ,28-40, , 
+5:08.0, , ,28-40, ,Defensive rebound by D. Smith
+5:00.0, , ,28-40, ,Turnover by D. Smith (bad pass; steal by B. Beal)
+4:56.0,Turnover by J. Wall (lost ball; steal by W. Matthews), ,28-40, , 
+4:52.0, , ,28-40, ,Shooting foul by M. Morris (drawn by D. Smith)
+4:52.0,Technical foul by M. Morris, ,28-40, , 
+4:52.0, , ,28-41,+1,J. Barea makes technical free throw
+4:52.0, , ,28-41, ,D. Smith misses free throw 1 of 2
+4:52.0, , ,28-41, ,Offensive rebound by Team
+4:52.0, , ,28-42,+1,D. Smith makes free throw 2 of 2
+4:40.0,O. Porter makes 2-pt layup from 1 ft (assist by B. Beal),+2,30-42, , 
+4:27.0, , ,30-42, ,D. Smith misses 3-pt jump shot from 25 ft
+4:25.0,Defensive rebound by B. Beal, ,30-42, , 
+4:16.0,Turnover by B. Beal (lost ball; steal by W. Matthews), ,30-42, , 
+4:12.0, , ,30-42, ,D. Smith misses 2-pt layup from 1 ft (block by J. Wall)
+4:12.0, , ,30-42, ,Offensive rebound by Team
+4:04.0, , ,30-42, ,W. Matthews misses 3-pt jump shot from 28 ft
+4:01.0,Defensive rebound by O. Porter, ,30-42, , 
+3:55.0,J. Wall makes 2-pt jump shot from 17 ft,+2,32-42, , 
+3:53.0, , ,32-42, ,Dallas full timeout
+3:53.0, , ,32-42, ,Y. Ferrell enters the game for J. Barea
+3:37.0, , ,32-44,+2,H. Barnes makes 2-pt jump shot from 6 ft
+3:20.0,O. Porter misses 3-pt jump shot from 24 ft, ,32-44, , 
+3:17.0,Offensive rebound by M. Morris, ,32-44, , 
+3:15.0,K. Oubre misses 3-pt jump shot from 22 ft, ,32-44, , 
+3:10.0,Offensive rebound by O. Porter, ,32-44, , 
+3:10.0,O. Porter misses 2-pt layup at rim, ,32-44, , 
+3:08.0,Offensive rebound by M. Morris, ,32-44, , 
+3:08.0,M. Morris misses 2-pt layup at rim, ,32-44, , 
+3:08.0,Offensive rebound by M. Morris, ,32-44, , 
+3:07.0,M. Morris misses 2-pt layup at rim, ,32-44, , 
+3:06.0, , ,32-44, ,Defensive rebound by W. Matthews
+2:59.0, , ,32-44, ,Turnover by W. Matthews (bad pass)
+2:51.0,Shooting foul by D. Powell (drawn by J. Wall), ,32-44, , 
+2:51.0,J. Wall makes free throw 1 of 2,+1,33-44, , 
+2:51.0,J. Wall makes free throw 2 of 2,+1,34-44, , 
+2:38.0, , ,34-46,+2,H. Barnes makes 2-pt jump shot from 18 ft (assist by Y. Ferrell)
+2:22.0,Personal block foul by D. Powell (drawn by M. Morris), ,34-46, , 
+2:08.0,B. Beal makes 3-pt jump shot from 24 ft,+3,37-46, , 
+1:43.0, , ,37-48,+2,H. Barnes makes 2-pt jump shot from 17 ft
+1:37.0, , ,37-48, ,Offensive charge foul by J. Wall (drawn by Y. Ferrell)
+1:37.0,Turnover by J. Wall (offensive foul), ,37-48, , 
+1:30.0, , ,37-50,+2,D. Smith makes 2-pt layup at rim
+1:06.0,M. Morris misses 2-pt layup from 1 ft, ,37-50, , 
+1:05.0, , ,37-50, ,Defensive rebound by D. Smith
+0:56.0, , ,37-52,+2,D. Smith makes 2-pt layup from 1 ft (assist by W. Matthews)
+0:49.0,Offensive foul by M. Morris (drawn by W. Matthews), ,37-52, , 
+0:49.0,Turnover by M. Morris (offensive foul), ,37-52, , 
+0:33.0, , ,37-52, ,H. Barnes misses 3-pt jump shot from 27 ft
+0:30.0,Defensive rebound by K. Oubre, ,37-52, , 
+0:24.0, , ,37-53,+1,H. Barnes makes technical free throw
+0:09.0,Turnover by B. Beal (lost ball; steal by Y. Ferrell), ,37-53, , 
+0:09.0, , ,37-53, ,Personal foul by B. Beal (drawn by D. Powell)
+0:09.0,T. Satoranský enters the game for M. Morris, ,37-53, , 
+0:01.0, , ,37-53, ,D. Smith misses 2-pt jump shot from 19 ft
+0:00.0,Defensive rebound by J. Wall, ,37-53, , 
+11:44.0, , ,37-53, ,W. Matthews misses 2-pt jump shot from 6 ft
+11:41.0,Defensive rebound by B. Beal, ,37-53, , 
+11:28.0,M. Morris makes 3-pt jump shot from 23 ft (assist by B. Beal),+3,40-53, , 
+11:02.0, , ,40-53, ,D. Smith misses 2-pt jump shot from 18 ft
+10:59.0,Defensive rebound by O. Porter, ,40-53, , 
+10:54.0,J. Wall misses 3-pt jump shot from 25 ft, ,40-53, , 
+10:51.0, , ,40-53, ,Defensive rebound by H. Barnes
+10:36.0, , ,40-53, ,D. Smith misses 3-pt jump shot from 25 ft
+10:33.0,Defensive rebound by M. Gortat, ,40-53, , 
+10:30.0,O. Porter misses 3-pt jump shot from 25 ft, ,40-53, , 
+10:27.0, , ,40-53, ,Defensive rebound by H. Barnes
+10:05.0, , ,40-53, ,Turnover by D. Smith (lost ball; steal by M. Morris)
+10:03.0,Personal block foul by W. Matthews (drawn by J. Wall), ,40-53, , 
+9:53.0,M. Morris misses 3-pt jump shot from 25 ft, ,40-53, , 
+9:49.0,Offensive rebound by M. Gortat, ,40-53, , 
+9:48.0,J. Wall misses 3-pt jump shot from 26 ft, ,40-53, , 
+9:45.0,Offensive rebound by O. Porter, ,40-53, , 
+9:33.0,J. Wall misses 2-pt jump shot from 18 ft, ,40-53, , 
+9:29.0, , ,40-53, ,Defensive rebound by H. Barnes
+9:19.0, , ,40-55,+2,H. Barnes makes 2-pt layup from 3 ft (assist by D. Nowitzki)
+9:19.0,Violation by M. Morris (def goaltending), ,40-55, , 
+9:12.0,M. Gortat misses 2-pt layup from 2 ft (block by M. Kleber), ,40-55, , 
+9:10.0, , ,40-55, ,Defensive rebound by D. Nowitzki
+9:00.0, , ,40-55, ,M. Kleber misses 3-pt jump shot from 23 ft
+8:56.0,Defensive rebound by M. Morris, ,40-55, , 
+8:51.0,Shooting foul by W. Matthews (drawn by B. Beal), ,40-55, , 
+8:51.0,B. Beal makes free throw 1 of 2,+1,41-55, , 
+8:51.0,B. Beal makes free throw 2 of 2,+1,42-55, , 
+8:34.0, , ,42-55, ,D. Smith misses 2-pt jump shot from 13 ft
+8:32.0,Defensive rebound by M. Gortat, ,42-55, , 
+8:10.0,B. Beal misses 3-pt jump shot from 26 ft, ,42-55, , 
+8:08.0, , ,42-55, ,Defensive rebound by D. Nowitzki
+8:02.0, , ,42-55, ,Turnover by W. Matthews (lost ball; steal by B. Beal)
+8:02.0,Personal foul by D. Smith (drawn by B. Beal), ,42-55, , 
+8:02.0, , ,42-55, ,Dallas full timeout
+8:02.0, , ,42-55, ,Y. Ferrell enters the game for M. Kleber
+8:02.0,K. Oubre enters the game for O. Porter, ,42-55, , 
+7:46.0,Turnover by B. Beal (lost ball; steal by Y. Ferrell), ,42-55, , 
+7:42.0, , ,42-55, ,Y. Ferrell misses 3-pt jump shot from 25 ft
+7:39.0,Defensive rebound by M. Gortat, ,42-55, , 
+7:24.0,J. Wall misses 2-pt jump shot from 14 ft, ,42-55, , 
+7:21.0,Offensive rebound by M. Gortat, ,42-55, , 
+7:15.0, , ,42-55, ,S. Mejri enters the game for D. Nowitzki
+7:13.0,M. Morris makes 2-pt jump shot from 17 ft (assist by K. Oubre),+2,44-55, , 
+6:48.0, , ,44-55, ,H. Barnes misses 3-pt jump shot from 24 ft
+6:46.0,Defensive rebound by Team, ,44-55, , 
+6:30.0,Shooting foul by Y. Ferrell (drawn by B. Beal), ,44-55, , 
+6:30.0,B. Beal misses free throw 1 of 3, ,44-55, , 
+6:30.0,Offensive rebound by Team, ,44-55, , 
+6:30.0,B. Beal makes free throw 2 of 3,+1,45-55, , 
+6:30.0,B. Beal misses free throw 3 of 3, ,45-55, , 
+6:27.0, , ,45-55, ,Defensive rebound by H. Barnes
+6:20.0, , ,45-55, ,Personal foul by K. Oubre (drawn by W. Matthews)
+6:08.0, , ,45-55, ,W. Matthews misses 2-pt jump shot from 20 ft
+6:05.0, , ,45-55, ,Offensive rebound by Team
+5:54.0, , ,45-58,+3,D. Smith makes 3-pt jump shot from 24 ft
+5:41.0,Shooting foul by S. Mejri (drawn by M. Gortat), ,45-58, , 
+5:41.0,M. Gortat misses free throw 1 of 2, ,45-58, , 
+5:41.0,Offensive rebound by Team, ,45-58, , 
+5:41.0,M. Gortat makes free throw 2 of 2,+1,46-58, , 
+5:25.0, , ,46-61,+3,W. Matthews makes 3-pt jump shot from 26 ft (assist by D. Smith)
+5:05.0,B. Beal makes 3-pt jump shot from 24 ft (assist by J. Wall),+3,49-61, , 
+4:37.0, , ,49-63,+2,H. Barnes makes 2-pt jump shot from 12 ft (assist by Y. Ferrell)
+4:19.0,M. Morris misses 3-pt jump shot from 25 ft, ,49-63, , 
+4:15.0,Offensive rebound by M. Gortat, ,49-63, , 
+4:13.0,J. Wall misses 3-pt jump shot from 26 ft, ,49-63, , 
+4:09.0, , ,49-63, ,Defensive rebound by Y. Ferrell
+3:49.0, , ,49-63, ,Turnover by S. Mejri (bad pass; steal by K. Oubre)
+3:42.0,K. Oubre makes 3-pt jump shot from 25 ft (assist by M. Gortat),+3,52-63, , 
+3:19.0, , ,52-63, ,H. Barnes misses 2-pt jump shot from 17 ft
+3:19.0,Defensive rebound by Team, ,52-63, , 
+3:19.0, , ,52-63, ,Loose ball foul by S. Mejri
+3:19.0, , ,52-63, ,Technical foul by S. Mejri
+3:19.0, , ,52-63, ,Technical foul by S. Mejri
+3:19.0, , ,52-63, ,D. Powell enters the game for S. Mejri
+3:19.0,B. Beal misses technical free throw, ,52-63, , 
+3:19.0,Offensive rebound by Team, ,52-63, , 
+3:19.0, , ,52-63, ,J. Barea enters the game for D. Smith
+3:19.0,B. Beal makes technical free throw,+1,53-63, , 
+3:19.0,M. Gortat misses free throw 1 of 2, ,53-63, , 
+3:19.0,Offensive rebound by Team, ,53-63, , 
+3:19.0,M. Gortat makes free throw 2 of 2,+1,54-63, , 
+3:04.0, , ,54-63, ,H. Barnes misses 2-pt layup at rim
+3:02.0,Defensive rebound by M. Gortat, ,54-63, , 
+2:45.0,M. Gortat misses 2-pt hook shot from 8 ft, ,54-63, , 
+2:42.0, , ,54-63, ,Defensive rebound by Y. Ferrell
+2:34.0, , ,54-63, ,Y. Ferrell misses 2-pt layup from 1 ft
+2:32.0,Defensive rebound by M. Morris, ,54-63, , 
+2:28.0,K. Oubre misses 3-pt jump shot from 22 ft, ,54-63, , 
+2:24.0, , ,54-63, ,Defensive rebound by W. Matthews
+2:13.0, , ,54-63, ,Personal foul by K. Oubre (drawn by D. Powell)
+2:13.0,Washington full timeout, ,54-63, , 
+2:13.0,I. Mahinmi enters the game for J. Wall, ,54-63, , 
+2:13.0,T. Satoranský enters the game for M. Morris, ,54-63, , 
+2:13.0,M. Scott enters the game for M. Gortat, ,54-63, , 
+2:05.0, , ,54-63, ,W. Matthews misses 3-pt jump shot from 23 ft
+2:02.0, , ,54-63, ,Offensive rebound by H. Barnes
+1:53.0, , ,54-63, ,Shooting foul by I. Mahinmi (drawn by D. Powell)
+1:53.0, , ,54-64,+1,D. Powell makes free throw 1 of 2
+1:53.0, , ,54-64, ,K. Collinsworth enters the game for W. Matthews
+1:53.0, , ,54-65,+1,D. Powell makes free throw 2 of 2
+1:38.0,B. Beal misses 2-pt layup from 5 ft (block by D. Powell), ,54-65, , 
+1:35.0, , ,54-65, ,Defensive rebound by H. Barnes
+1:22.0, , ,54-67,+2,K. Collinsworth makes 2-pt layup from 3 ft
+0:56.0,Turnover by M. Scott (bad pass; steal by K. Collinsworth), ,54-67, , 
+0:35.0, , ,54-67, ,Personal foul by M. Scott (drawn by D. Powell)
+0:35.0, , ,54-67, ,D. Powell misses free throw 1 of 2
+0:35.0, , ,54-67, ,Offensive rebound by Team
+0:35.0, , ,54-68,+1,D. Powell makes free throw 2 of 2
+0:14.0,M. Scott misses 3-pt jump shot from 26 ft, ,54-68, , 
+0:11.0, , ,54-68, ,Defensive rebound by J. Barea
+0:00.0, , ,54-71,+3,Y. Ferrell makes 3-pt jump shot from 22 ft
+11:45.0,Personal foul by Y. Ferrell (drawn by B. Beal), ,54-71, , 
+11:37.0,Turnover by M. Scott (traveling), ,54-71, , 
+11:17.0, , ,54-74,+3,D. Nowitzki makes 3-pt jump shot from 22 ft (assist by J. Barea)
+11:17.0, , ,54-74, ,Shooting foul by M. Scott (drawn by D. Nowitzki)
+11:17.0,J. Wall enters the game for M. Scott, ,54-74, , 
+11:17.0, , ,54-75,+1,D. Nowitzki makes free throw 1 of 1
+11:01.0,B. Beal misses 2-pt jump shot from 16 ft, ,54-75, , 
+10:56.0,Offensive rebound by T. Satoranský, ,54-75, , 
+10:49.0,K. Oubre misses 2-pt jump shot from 9 ft (block by D. Powell), ,54-75, , 
+10:49.0,Offensive rebound by Team, ,54-75, , 
+10:44.0,Shooting foul by Y. Ferrell (drawn by B. Beal), ,54-75, , 
+10:44.0,B. Beal makes free throw 1 of 2,+1,55-75, , 
+10:44.0,B. Beal misses free throw 2 of 2, ,55-75, , 
+10:42.0, , ,55-75, ,Defensive rebound by D. Nowitzki
+10:18.0, , ,55-75, ,D. Powell misses 2-pt jump shot from 10 ft
+10:16.0,Defensive rebound by K. Oubre, ,55-75, , 
+10:11.0,B. Beal misses 3-pt jump shot from 23 ft, ,55-75, , 
+10:08.0, , ,55-75, ,Defensive rebound by J. Barea
+9:55.0, , ,55-77,+2,K. Collinsworth makes 2-pt layup from 1 ft (assist by D. Powell)
+9:30.0,T. Satoranský misses 3-pt jump shot from 23 ft, ,55-77, , 
+9:30.0, , ,55-77, ,Defensive rebound by Team
+9:30.0,Loose ball foul by I. Mahinmi (drawn by D. Nowitzki), ,55-77, , 
+9:13.0, , ,55-77, ,Y. Ferrell misses 3-pt jump shot from 25 ft
+9:10.0,Defensive rebound by I. Mahinmi, ,55-77, , 
+9:03.0,J. Wall misses 2-pt jump shot from 17 ft, ,55-77, , 
+9:01.0, , ,55-77, ,Defensive rebound by D. Nowitzki
+8:50.0, , ,55-77, ,Personal block foul by I. Mahinmi (drawn by Y. Ferrell)
+8:41.0, , ,55-77, ,J. Barea misses 3-pt jump shot from 26 ft
+8:38.0, , ,55-77, ,Offensive rebound by D. Powell
+8:36.0, , ,55-77, ,D. Nowitzki misses 3-pt jump shot from 24 ft
+8:33.0,Defensive rebound by J. Wall, ,55-77, , 
+8:26.0,Shooting foul by D. Powell (drawn by B. Beal), ,55-77, , 
+8:26.0,B. Beal makes free throw 1 of 2,+1,56-77, , 
+8:26.0, , ,56-77, ,M. Kleber enters the game for D. Powell
+8:26.0,B. Beal misses free throw 2 of 2, ,56-77, , 
+8:23.0, , ,56-77, ,Defensive rebound by M. Kleber
+8:09.0, , ,56-77, ,Shooting foul by I. Mahinmi (drawn by M. Kleber)
+8:09.0, , ,56-77, ,M. Kleber misses free throw 1 of 2
+8:09.0, , ,56-77, ,Offensive rebound by Team
+8:09.0, , ,56-78,+1,M. Kleber makes free throw 2 of 2
+7:56.0,K. Oubre misses 3-pt jump shot from 25 ft, ,56-78, , 
+7:53.0, , ,56-78, ,Defensive rebound by D. Nowitzki
+7:42.0, , ,56-78, ,Offensive foul by J. Barea (drawn by K. Oubre)
+7:42.0, , ,56-78, ,Turnover by J. Barea (offensive foul)
+7:42.0, , ,56-78, ,Technical foul by J. Barea
+7:42.0, , ,56-78, ,Dallas full timeout
+7:42.0, , ,56-78, ,D. Smith enters the game for Y. Ferrell
+7:42.0,J. Smith enters the game for I. Mahinmi, ,56-78, , 
+7:42.0,B. Beal makes technical free throw,+1,57-78, , 
+7:26.0,K. Oubre misses 2-pt jump shot from 17 ft, ,57-78, , 
+7:24.0, , ,57-78, ,Defensive rebound by K. Collinsworth
+7:12.0, , ,57-80,+2,J. Barea makes 2-pt jump shot from 16 ft (assist by D. Nowitzki)
+6:54.0,J. Smith makes 2-pt layup from 1 ft (assist by T. Satoranský),+2,59-80, , 
+6:54.0,Shooting foul by M. Kleber (drawn by J. Smith), ,59-80, , 
+6:54.0,J. Smith misses free throw 1 of 1, ,59-80, , 
+6:52.0, , ,59-80, ,Defensive rebound by D. Nowitzki
+6:42.0, , ,59-80, ,Personal foul by T. Satoranský (drawn by D. Nowitzki)
+6:42.0, , ,59-81,+1,D. Nowitzki makes free throw 1 of 2
+6:42.0, , ,59-82,+1,D. Nowitzki makes free throw 2 of 2
+6:27.0,B. Beal misses 3-pt jump shot from 25 ft, ,59-82, , 
+6:23.0,Offensive rebound by K. Oubre, ,59-82, , 
+6:23.0,Shooting foul by D. Smith (drawn by K. Oubre), ,59-82, , 
+6:23.0,K. Oubre makes free throw 1 of 2,+1,60-82, , 
+6:23.0,K. Oubre makes free throw 2 of 2,+1,61-82, , 
+6:00.0, , ,61-82, ,D. Smith misses 3-pt jump shot from 24 ft
+5:57.0,Defensive rebound by J. Wall, ,61-82, , 
+5:53.0,J. Wall misses 3-pt jump shot from 25 ft, ,61-82, , 
+5:51.0,Offensive rebound by J. Smith, ,61-82, , 
+5:50.0,J. Smith makes 2-pt layup from 1 ft,+2,63-82, , 
+5:33.0, , ,63-82, ,D. Nowitzki misses 2-pt jump shot from 3 ft
+5:33.0,Defensive rebound by Team, ,63-82, , 
+5:33.0, , ,63-82, ,W. Matthews enters the game for J. Barea
+5:33.0, , ,63-82, ,H. Barnes enters the game for K. Collinsworth
+5:33.0, , ,63-82, ,Y. Ferrell enters the game for D. Nowitzki
+5:13.0,B. Beal misses 3-pt jump shot from 26 ft, ,63-82, , 
+5:09.0, , ,63-82, ,Defensive rebound by H. Barnes
+5:00.0, , ,63-82, ,Offensive foul by H. Barnes (drawn by B. Beal)
+5:00.0, , ,63-82, ,Turnover by H. Barnes (offensive foul)
+4:42.0,K. Oubre misses 3-pt jump shot from 27 ft, ,63-82, , 
+4:37.0, , ,63-82, ,Defensive rebound by H. Barnes
+4:32.0, , ,63-82, ,D. Smith misses 2-pt layup from 3 ft
+4:32.0, , ,63-82, ,Offensive rebound by Y. Ferrell
+4:32.0, , ,63-84,+2,Y. Ferrell makes 2-pt layup at rim
+4:32.0,Washington full timeout, ,63-84, , 
+4:32.0,J. Meeks enters the game for J. Wall, ,63-84, , 
+4:32.0,T. Frazier enters the game for B. Beal, ,63-84, , 
+4:32.0,C. McCullough enters the game for K. Oubre, ,63-84, , 
+4:16.0,J. Meeks makes 2-pt jump shot from 4 ft (assist by T. Frazier),+2,65-84, , 
+3:58.0, , ,65-84, ,W. Matthews misses 3-pt jump shot from 25 ft
+3:54.0,Defensive rebound by T. Satoranský, ,65-84, , 
+3:48.0,C. McCullough misses 2-pt jump shot from 2 ft, ,65-84, , 
+3:45.0, , ,65-84, ,Defensive rebound by W. Matthews
+3:39.0, , ,65-86,+2,H. Barnes makes 2-pt jump shot from 17 ft
+3:25.0,J. Meeks misses 3-pt jump shot from 24 ft, ,65-86, , 
+3:25.0, , ,65-86, ,Defensive rebound by D. Smith
+3:17.0, , ,65-86, ,W. Matthews misses 3-pt jump shot from 26 ft
+3:13.0,Defensive rebound by T. Frazier, ,65-86, , 
+3:09.0,J. Meeks misses 3-pt jump shot from 25 ft, ,65-86, , 
+3:09.0,Offensive rebound by J. Smith, ,65-86, , 
+3:08.0,Personal foul by W. Matthews (drawn by J. Smith), ,65-86, , 
+3:08.0,J. Smith misses free throw 1 of 2, ,65-86, , 
+3:08.0,Offensive rebound by Team, ,65-86, , 
+3:08.0, , ,65-86, ,K. Collinsworth enters the game for W. Matthews
+3:08.0, , ,65-86, ,J. Jones enters the game for H. Barnes
+3:08.0, , ,65-86, ,J. McRoberts enters the game for M. Kleber
+3:08.0,J. Smith makes free throw 2 of 2,+1,66-86, , 
+2:55.0, , ,66-88,+2,D. Smith makes 2-pt layup at rim
+2:45.0,T. Frazier makes 2-pt jump shot from 21 ft,+2,68-88, , 
+2:32.0, , ,68-90,+2,J. Jones makes 2-pt layup from 1 ft
+2:18.0,J. Smith misses 2-pt jump shot from 22 ft, ,68-90, , 
+2:17.0, , ,68-90, ,Defensive rebound by Team
+2:02.0, , ,68-93,+3,D. Smith makes 3-pt jump shot from 24 ft
+1:50.0,Turnover by J. Meeks (lost ball; steal by D. Smith), ,68-93, , 
+1:50.0, , ,68-93, ,Dallas full timeout
+1:50.0, , ,68-93, ,D. Powell enters the game for D. Smith
+1:32.0, , ,68-93, ,Y. Ferrell misses 2-pt jump shot from 16 ft (block by C. McCullough)
+1:30.0,Defensive rebound by Team, ,68-93, , 
+1:23.0,J. Meeks makes 3-pt jump shot from 25 ft (assist by T. Frazier),+3,71-93, , 
+1:05.0, , ,71-96,+3,Y. Ferrell makes 3-pt jump shot from 24 ft (assist by K. Collinsworth)
+0:53.0,T. Frazier makes 3-pt jump shot from 24 ft (assist by C. McCullough),+3,74-96, , 
+0:39.0, , ,74-96, ,Turnover by K. Collinsworth (bad pass; steal by J. Smith)
+0:31.0,T. Satoranský misses 2-pt layup from 2 ft, ,74-96, , 
+0:26.0, , ,74-96, ,Defensive rebound by K. Collinsworth
+0:08.0, , ,74-98,+2,D. Powell makes 2-pt dunk at rim (assist by K. Collinsworth)
+0:03.0,Shooting foul by J. McRoberts (drawn by C. McCullough), ,74-98, , 
+0:03.0,C. McCullough misses free throw 1 of 2, ,74-98, , 
+0:03.0,Offensive rebound by Team, ,74-98, , 
+0:03.0,C. McCullough makes free throw 2 of 2,+1,75-98, , 

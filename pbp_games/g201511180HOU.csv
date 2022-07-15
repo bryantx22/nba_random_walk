@@ -1,0 +1,527 @@
+time,away_description,away_change,score,home_change,home_description
+12:00.0, , ,0-0, ,Violation by Team (delay of game)
+11:42.0,Turnover by M. Plumlee (bad pass; steal by J. Harden), ,0-0, , 
+11:28.0, , ,0-0, ,T. Jones misses 2-pt layup from 3 ft
+11:27.0,Defensive rebound by M. Plumlee, ,0-0, , 
+11:15.0,A. Aminu misses 3-pt jump shot from 23 ft, ,0-0, , 
+11:13.0,Offensive rebound by N. Vonleh, ,0-0, , 
+11:13.0,N. Vonleh misses 2-pt layup from 2 ft (block by D. Howard), ,0-0, , 
+11:12.0, , ,0-0, ,Defensive rebound by J. Harden
+11:00.0, , ,0-0, ,D. Howard misses 2-pt hook shot from 6 ft
+10:59.0,Defensive rebound by N. Vonleh, ,0-0, , 
+10:50.0,N. Vonleh makes 2-pt jump shot from 18 ft (assist by C. McCollum),+2,2-0, , 
+10:24.0, , ,2-3,+3,J. Harden makes 3-pt jump shot from 24 ft (assist by T. Ariza)
+10:01.0,A. Aminu makes 3-pt jump shot from 25 ft (assist by D. Lillard),+3,5-3, , 
+9:47.0, , ,5-3, ,T. Ariza misses 3-pt jump shot from 23 ft
+9:45.0, , ,5-3, ,Offensive rebound by D. Howard
+9:32.0, , ,5-3, ,Turnover by D. Howard (traveling)
+9:10.0,Shooting foul by D. Howard (drawn by A. Aminu), ,5-3, , 
+9:10.0,A. Aminu makes free throw 1 of 2,+1,6-3, , 
+9:10.0,A. Aminu makes free throw 2 of 2,+1,7-3, , 
+8:58.0, , ,7-3, ,Shooting foul by N. Vonleh (drawn by T. Jones)
+8:58.0, , ,7-4,+1,T. Jones makes free throw 1 of 2
+8:58.0, , ,7-5,+1,T. Jones makes free throw 2 of 2
+8:41.0,D. Lillard misses 2-pt jump shot from 20 ft, ,7-5, , 
+8:41.0, , ,7-5, ,Defensive rebound by J. Harden
+8:27.0, , ,7-5, ,T. Ariza misses 2-pt layup from 3 ft (block by M. Plumlee)
+8:26.0,Defensive rebound by N. Vonleh, ,7-5, , 
+8:23.0,Turnover by D. Lillard (bad pass; steal by J. Terry), ,7-5, , 
+8:19.0, , ,7-7,+2,T. Ariza makes 2-pt dunk at rim (assist by J. Terry)
+7:59.0,Turnover by A. Aminu (bad pass; steal by J. Harden), ,7-7, , 
+7:51.0, , ,7-9,+2,T. Jones makes 2-pt dunk at rim (assist by T. Ariza)
+7:33.0,M. Plumlee makes 2-pt hook shot from 7 ft,+2,9-9, , 
+7:10.0, , ,9-9, ,J. Terry misses 3-pt jump shot from 25 ft
+7:09.0, , ,9-9, ,Offensive rebound by D. Howard
+7:08.0, , ,9-9, ,Shooting foul by N. Vonleh (drawn by D. Howard)
+7:08.0, , ,9-9, ,D. Howard misses free throw 1 of 2
+7:08.0, , ,9-9, ,Offensive rebound by Team
+7:08.0,C. Alexander enters the game for N. Vonleh, ,9-9, , 
+7:08.0, , ,9-9, ,D. Howard misses free throw 2 of 2
+7:08.0,Defensive rebound by A. Aminu, ,9-9, , 
+6:50.0,Shooting foul by J. Terry (drawn by D. Lillard), ,9-9, , 
+6:50.0,D. Lillard makes free throw 1 of 2,+1,10-9, , 
+6:50.0,D. Lillard makes free throw 2 of 2,+1,11-9, , 
+6:38.0, , ,11-9, ,J. Harden misses 3-pt jump shot from 24 ft
+6:37.0,Defensive rebound by A. Aminu, ,11-9, , 
+6:23.0,C. Alexander misses 2-pt jump shot from 8 ft, ,11-9, , 
+6:23.0, , ,11-9, ,Defensive rebound by T. Jones
+6:16.0, , ,11-9, ,Turnover by T. Jones (bad pass; steal by C. McCollum)
+6:07.0,C. Alexander makes 2-pt dunk at rim (assist by C. McCollum),+2,13-9, , 
+6:00.0, , ,13-9, ,Turnover by J. Harden (lost ball; steal by C. McCollum)
+5:56.0,C. McCollum makes 2-pt dunk at rim,+2,15-9, , 
+5:50.0, , ,15-9, ,Houston full timeout
+5:50.0, , ,15-9, ,C. Capela enters the game for D. Howard
+5:50.0, , ,15-9, ,T. Lawson enters the game for J. Terry
+5:39.0, , ,15-12,+3,T. Ariza makes 3-pt jump shot from 24 ft (assist by J. Harden)
+5:17.0,C. McCollum makes 2-pt jump shot from 19 ft,+2,17-12, , 
+4:59.0,A. Crabbe enters the game for C. McCollum, ,17-12, , 
+4:59.0,E. Davis enters the game for M. Plumlee, ,17-12, , 
+4:54.0, , ,17-15,+3,T. Jones makes 3-pt jump shot from 24 ft (assist by J. Harden)
+4:25.0,A. Aminu misses 3-pt jump shot from 23 ft, ,17-15, , 
+4:24.0, , ,17-15, ,Defensive rebound by T. Ariza
+4:17.0, , ,17-18,+3,J. Harden makes 3-pt jump shot from 24 ft
+4:05.0,Turnover by D. Lillard (bad pass; steal by C. Capela), ,17-18, , 
+4:00.0, , ,17-18, ,Shooting foul by A. Crabbe (drawn by J. Harden)
+4:00.0, , ,17-19,+1,J. Harden makes free throw 1 of 2
+4:00.0, , ,17-19, ,C. Brewer enters the game for T. Ariza
+4:00.0,M. Harkless enters the game for A. Aminu, ,17-19, , 
+4:00.0, , ,17-19, ,M. Harrell enters the game for T. Jones
+4:00.0, , ,17-20,+1,J. Harden makes free throw 2 of 2
+3:49.0,Turnover by D. Lillard (lost ball; steal by T. Lawson), ,17-20, , 
+3:43.0, , ,17-22,+2,C. Brewer makes 2-pt layup from 1 ft (assist by J. Harden)
+3:36.0,Portland full timeout, ,17-22, , 
+3:26.0,A. Crabbe misses 3-pt jump shot from 25 ft, ,17-22, , 
+3:24.0,Offensive rebound by Team, ,17-22, , 
+3:20.0,Turnover by D. Lillard (lost ball), ,17-22, , 
+3:09.0, , ,17-22, ,Turnover by C. Brewer (lost ball; steal by D. Lillard)
+3:08.0,Personal foul by T. Lawson (drawn by D. Lillard), ,17-22, , 
+3:08.0,N. Vonleh enters the game for C. Alexander, ,17-22, , 
+3:08.0, , ,17-22, ,M. Thornton enters the game for J. Harden
+2:57.0,D. Lillard misses 2-pt jump shot from 20 ft, ,17-22, , 
+2:55.0, , ,17-22, ,Defensive rebound by C. Brewer
+2:42.0, , ,17-22, ,M. Thornton misses 3-pt jump shot from 25 ft
+2:41.0,Defensive rebound by D. Lillard, ,17-22, , 
+2:33.0,D. Lillard misses 2-pt layup from 3 ft (block by C. Capela), ,17-22, , 
+2:32.0,Offensive rebound by N. Vonleh, ,17-22, , 
+2:23.0,Shooting foul by M. Harrell (drawn by M. Harkless), ,17-22, , 
+2:23.0,M. Harkless misses free throw 1 of 2, ,17-22, , 
+2:23.0,Offensive rebound by Team, ,17-22, , 
+2:23.0,M. Harkless makes free throw 2 of 2,+1,18-22, , 
+2:18.0, , ,18-22, ,Personal foul by A. Crabbe (drawn by T. Lawson)
+2:18.0, , ,18-22, ,D. Howard enters the game for C. Capela
+2:12.0, , ,18-22, ,T. Lawson misses 2-pt jump shot from 17 ft
+2:11.0,Defensive rebound by N. Vonleh, ,18-22, , 
+2:04.0, , ,18-22, ,Offensive charge foul by N. Vonleh (drawn by M. Harrell)
+2:04.0,Turnover by N. Vonleh (offensive foul), ,18-22, , 
+2:04.0,G. Henderson enters the game for N. Vonleh, ,18-22, , 
+1:45.0, , ,18-22, ,C. Brewer misses 3-pt jump shot from 24 ft
+1:44.0, , ,18-22, ,Offensive rebound by M. Thornton
+1:24.0, , ,18-22, ,T. Lawson misses 2-pt jump shot from 8 ft
+1:23.0,Defensive rebound by M. Harkless, ,18-22, , 
+1:11.0,G. Henderson makes 3-pt jump shot from 25 ft (assist by M. Harkless),+3,21-22, , 
+0:57.0, , ,21-22, ,M. Thornton misses 2-pt jump shot from 15 ft
+0:56.0,Defensive rebound by M. Harkless, ,21-22, , 
+0:46.0,D. Lillard misses 2-pt layup from 3 ft, ,21-22, , 
+0:45.0,Offensive rebound by E. Davis, ,21-22, , 
+0:28.0,M. Harkless misses 2-pt layup from 2 ft, ,21-22, , 
+0:26.0,Offensive rebound by M. Harkless, ,21-22, , 
+0:26.0,Turnover by M. Harkless (traveling), ,21-22, , 
+0:26.0,C. McCollum enters the game for D. Lillard, ,21-22, , 
+0:26.0, , ,21-22, ,J. Harden enters the game for M. Harrell
+0:04.0, , ,21-22, ,J. Harden misses 3-pt jump shot from 24 ft
+0:02.0,Defensive rebound by Team, ,21-22, , 
+11:35.0, , ,21-22, ,T. Lawson misses 2-pt jump shot from 16 ft
+11:34.0,Defensive rebound by M. Harkless, ,21-22, , 
+11:31.0,Turnover by M. Harkless (lost ball; steal by M. Harrell), ,21-22, , 
+11:25.0, , ,21-22, ,M. Thornton misses 3-pt jump shot from 25 ft
+11:23.0,Defensive rebound by Team, ,21-22, , 
+11:09.0,G. Henderson misses 2-pt jump shot from 11 ft, ,21-22, , 
+11:08.0, , ,21-22, ,Defensive rebound by D. Howard
+10:58.0, , ,21-22, ,C. Brewer misses 2-pt layup from 3 ft
+10:57.0,Defensive rebound by M. Harkless, ,21-22, , 
+10:45.0,G. Henderson misses 3-pt jump shot from 24 ft, ,21-22, , 
+10:44.0, , ,21-22, ,Defensive rebound by D. Howard
+10:35.0, , ,21-24,+2,D. Howard makes 2-pt jump shot at rim (assist by T. Lawson)
+10:12.0,C. McCollum misses 3-pt jump shot from 24 ft, ,21-24, , 
+10:12.0, , ,21-24, ,Defensive rebound by D. Howard
+9:54.0, , ,21-24, ,Turnover by D. Howard (bad pass)
+9:41.0,C. McCollum misses 2-pt jump shot from 16 ft, ,21-24, , 
+9:40.0, , ,21-24, ,Defensive rebound by M. Thornton
+9:31.0, , ,21-24, ,D. Howard misses 2-pt dunk at rim
+9:30.0,Defensive rebound by E. Davis, ,21-24, , 
+9:21.0,A. Crabbe makes 3-pt jump shot from 22 ft (assist by M. Harkless),+3,24-24, , 
+9:06.0, , ,24-24, ,Personal foul by E. Davis (drawn by D. Howard)
+9:06.0, , ,24-24, ,J. Harden enters the game for M. Thornton
+9:06.0, , ,24-24, ,T. Jones enters the game for M. Harrell
+8:56.0, , ,24-24, ,J. Harden misses 3-pt jump shot from 25 ft
+8:55.0,Defensive rebound by M. Harkless, ,24-24, , 
+8:39.0,A. Crabbe makes 3-pt jump shot from 25 ft (assist by C. McCollum),+3,27-24, , 
+8:21.0, , ,27-24, ,C. Brewer misses 3-pt jump shot from 23 ft
+8:20.0,Defensive rebound by C. McCollum, ,27-24, , 
+8:12.0,G. Henderson misses 3-pt jump shot from 24 ft, ,27-24, , 
+8:11.0,Offensive rebound by A. Crabbe, ,27-24, , 
+8:01.0,C. McCollum misses 2-pt layup from 1 ft (block by D. Howard), ,27-24, , 
+8:01.0,Offensive rebound by E. Davis, ,27-24, , 
+8:01.0,Shooting foul by T. Jones (drawn by E. Davis), ,27-24, , 
+8:01.0,Official timeout, ,27-24, , 
+8:01.0, , ,27-24, ,T. Ariza enters the game for C. Brewer
+8:01.0,E. Davis misses free throw 1 of 2, ,27-24, , 
+8:01.0,Offensive rebound by Team, ,27-24, , 
+8:01.0,E. Davis makes free throw 2 of 2,+1,28-24, , 
+7:47.0, , ,28-24, ,J. Harden misses 2-pt jump shot from 8 ft
+7:46.0, , ,28-24, ,Offensive rebound by D. Howard
+7:41.0, , ,28-27,+3,T. Ariza makes 3-pt jump shot from 24 ft (assist by D. Howard)
+7:27.0,A. Crabbe misses 2-pt jump shot from 17 ft, ,28-27, , 
+7:26.0, , ,28-27, ,Defensive rebound by D. Howard
+7:14.0, , ,28-27, ,T. Ariza misses 2-pt jump shot from 15 ft
+7:13.0,Defensive rebound by A. Crabbe, ,28-27, , 
+7:00.0,G. Henderson makes 3-pt jump shot from 22 ft (assist by C. McCollum),+3,31-27, , 
+6:42.0, , ,31-27, ,Turnover by T. Lawson (bad pass; steal by M. Harkless)
+6:36.0,C. McCollum misses 3-pt jump shot from 24 ft, ,31-27, , 
+6:35.0, , ,31-27, ,Defensive rebound by T. Ariza
+6:17.0, , ,31-27, ,Shooting foul by M. Harkless (drawn by T. Jones)
+6:17.0, , ,31-27, ,T. Jones misses free throw 1 of 2
+6:17.0, , ,31-27, ,Offensive rebound by Team
+6:17.0,M. Plumlee enters the game for E. Davis, ,31-27, , 
+6:17.0,A. Aminu enters the game for M. Harkless, ,31-27, , 
+6:17.0, , ,31-27, ,C. Capela enters the game for D. Howard
+6:17.0, , ,31-27, ,J. Terry enters the game for T. Lawson
+6:17.0,Violation by G. Henderson (lane), ,31-27, , 
+6:17.0, , ,31-28,+1,T. Jones makes free throw 2 of 2
+6:02.0,C. McCollum misses 2-pt jump shot from 9 ft, ,31-28, , 
+6:01.0, , ,31-28, ,Defensive rebound by J. Harden
+5:53.0, , ,31-31,+3,T. Ariza makes 3-pt jump shot from 24 ft (assist by J. Harden)
+5:52.0,Portland full timeout, ,31-31, , 
+5:52.0,D. Lillard enters the game for C. McCollum, ,31-31, , 
+5:52.0,T. Frazier enters the game for G. Henderson, ,31-31, , 
+5:33.0,Turnover by A. Aminu (traveling), ,31-31, , 
+5:33.0,Violation by Team (delay of game), ,31-31, , 
+5:16.0, , ,31-31, ,T. Ariza misses 2-pt layup from 1 ft
+5:14.0, , ,31-31, ,Offensive rebound by C. Capela
+5:14.0, , ,31-31, ,C. Capela misses 2-pt jump shot from 2 ft
+5:12.0, , ,31-31, ,Offensive rebound by C. Capela
+5:12.0, , ,31-31, ,C. Capela misses 2-pt layup from 2 ft (block by M. Plumlee)
+5:11.0,Defensive rebound by D. Lillard, ,31-31, , 
+5:07.0,A. Crabbe makes 3-pt jump shot from 23 ft (assist by T. Frazier),+3,34-31, , 
+4:57.0, , ,34-31, ,Shooting foul by D. Lillard (drawn by J. Harden)
+4:57.0, , ,34-32,+1,J. Harden makes free throw 1 of 2
+4:57.0, , ,34-33,+1,J. Harden makes free throw 2 of 2
+4:42.0,D. Lillard misses 3-pt jump shot from 25 ft, ,34-33, , 
+4:41.0,Offensive rebound by A. Aminu, ,34-33, , 
+4:38.0,Shooting foul by J. Terry (drawn by M. Plumlee), ,34-33, , 
+4:38.0,M. Plumlee misses free throw 1 of 2, ,34-33, , 
+4:38.0,Offensive rebound by Team, ,34-33, , 
+4:38.0,M. Plumlee makes free throw 2 of 2,+1,35-33, , 
+4:22.0, , ,35-33, ,J. Harden misses 2-pt jump shot from 15 ft
+4:21.0,Defensive rebound by A. Aminu, ,35-33, , 
+3:56.0,A. Crabbe makes 2-pt jump shot from 20 ft (assist by M. Plumlee),+2,37-33, , 
+3:42.0, , ,37-33, ,J. Harden misses 3-pt jump shot from 24 ft
+3:41.0, , ,37-33, ,Offensive rebound by J. Terry
+3:28.0, , ,37-33, ,T. Ariza misses 3-pt jump shot from 24 ft
+3:26.0,Defensive rebound by T. Frazier, ,37-33, , 
+3:19.0,M. Plumlee misses 2-pt jump shot from 4 ft, ,37-33, , 
+3:18.0, , ,37-33, ,Defensive rebound by C. Capela
+3:12.0, , ,37-33, ,C. Capela misses 2-pt layup from 1 ft
+3:11.0,Defensive rebound by A. Aminu, ,37-33, , 
+3:02.0,D. Lillard misses 3-pt jump shot from 24 ft, ,37-33, , 
+3:01.0, , ,37-33, ,Defensive rebound by J. Harden
+2:58.0, , ,37-33, ,Houston full timeout
+2:58.0, , ,37-33, ,D. Howard enters the game for J. Terry
+2:58.0, , ,37-33, ,T. Lawson enters the game for C. Capela
+2:46.0, , ,37-33, ,J. Harden misses 3-pt jump shot from 25 ft
+2:46.0,Defensive rebound by A. Aminu, ,37-33, , 
+2:31.0,M. Plumlee misses 2-pt jump shot from 3 ft (block by T. Jones), ,37-33, , 
+2:30.0,Offensive rebound by M. Plumlee, ,37-33, , 
+2:29.0,M. Plumlee makes 2-pt dunk at rim,+2,39-33, , 
+2:18.0, , ,39-33, ,Turnover by J. Harden (bad pass; steal by T. Frazier)
+2:14.0,Turnover by T. Frazier (bad pass), ,39-33, , 
+2:04.0, , ,39-33, ,T. Lawson misses 2-pt layup from 4 ft
+2:03.0, , ,39-33, ,Offensive rebound by T. Ariza
+1:49.0, , ,39-35,+2,T. Lawson makes 2-pt jump shot from 12 ft
+1:30.0,A. Crabbe makes 2-pt jump shot from 10 ft (assist by T. Frazier),+2,41-35, , 
+1:15.0, , ,41-35, ,T. Lawson misses 2-pt jump shot from 18 ft
+1:14.0, , ,41-35, ,Offensive rebound by D. Howard
+1:00.0, , ,41-35, ,D. Howard misses 2-pt layup from 3 ft (block by M. Plumlee)
+1:00.0,Defensive rebound by Team, ,41-35, , 
+0:42.0,A. Aminu makes 3-pt jump shot from 24 ft (assist by T. Frazier),+3,44-35, , 
+0:19.0, , ,44-35, ,T. Lawson misses 3-pt jump shot from 23 ft
+0:18.0,Defensive rebound by A. Aminu, ,44-35, , 
+0:02.0,Shooting foul by T. Ariza (drawn by D. Lillard), ,44-35, , 
+0:02.0,D. Lillard makes free throw 1 of 2,+1,45-35, , 
+0:02.0,D. Lillard makes free throw 2 of 2,+1,46-35, , 
+0:02.0, , ,46-35, ,Technical foul by T. Jones
+0:02.0,Technical foul by A. Aminu, ,46-35, , 
+0:00.0, , ,46-35, ,T. Lawson misses 3-pt jump shot from 55 ft
+0:00.0, , ,46-35, ,Offensive rebound by Team
+11:40.0, , ,46-35, ,T. Jones misses 2-pt layup from 3 ft (block by A. Aminu)
+11:39.0,Defensive rebound by A. Aminu, ,46-35, , 
+11:23.0,N. Vonleh makes 2-pt hook shot from 4 ft,+2,48-35, , 
+11:08.0, , ,48-35, ,T. Jones misses 3-pt jump shot from 24 ft
+11:08.0,Defensive rebound by A. Aminu, ,48-35, , 
+11:00.0,D. Lillard makes 3-pt jump shot from 25 ft,+3,51-35, , 
+10:59.0, , ,51-35, ,Houston full timeout
+10:47.0, , ,51-38,+3,J. Terry makes 3-pt jump shot from 23 ft (assist by D. Howard)
+10:24.0,A. Aminu makes 2-pt jump shot from 15 ft (assist by C. McCollum),+2,53-38, , 
+10:16.0, , ,53-41,+3,T. Ariza makes 3-pt jump shot from 24 ft (assist by J. Terry)
+9:49.0,N. Vonleh misses 2-pt layup from 3 ft, ,53-41, , 
+9:48.0, , ,53-41, ,Defensive rebound by J. Terry
+9:41.0, , ,53-41, ,T. Ariza misses 3-pt jump shot from 25 ft
+9:40.0, , ,53-41, ,Offensive rebound by T. Ariza
+9:38.0, , ,53-41, ,T. Ariza misses 2-pt layup from 2 ft
+9:37.0,Defensive rebound by A. Aminu, ,53-41, , 
+9:34.0,Personal foul by J. Terry (drawn by D. Lillard), ,53-41, , 
+9:28.0,M. Plumlee misses 2-pt jump shot from 9 ft, ,53-41, , 
+9:27.0, , ,53-41, ,Defensive rebound by D. Howard
+9:18.0, , ,53-43,+2,J. Harden makes 2-pt jump shot from 18 ft
+9:18.0, , ,53-43, ,Shooting foul by C. McCollum (drawn by J. Harden)
+9:18.0, , ,53-44,+1,J. Harden makes free throw 1 of 1
+8:54.0,M. Plumlee makes 2-pt layup from 3 ft (assist by C. McCollum),+2,55-44, , 
+8:36.0, , ,55-44, ,Turnover by J. Terry (bad pass; steal by D. Lillard)
+8:28.0,A. Aminu misses 3-pt jump shot from 24 ft, ,55-44, , 
+8:27.0, , ,55-44, ,Defensive rebound by D. Howard
+8:18.0, , ,55-44, ,Turnover by J. Harden (lost ball; steal by C. McCollum)
+8:12.0,A. Aminu misses 2-pt layup from 3 ft, ,55-44, , 
+8:10.0, , ,55-44, ,Defensive rebound by D. Howard
+7:59.0, , ,55-44, ,J. Harden misses 2-pt layup from 2 ft
+7:58.0,Defensive rebound by N. Vonleh, ,55-44, , 
+7:53.0,Shooting foul by J. Terry (drawn by C. McCollum), ,55-44, , 
+7:53.0,C. McCollum makes free throw 1 of 2,+1,56-44, , 
+7:53.0, , ,56-44, ,C. Capela enters the game for D. Howard
+7:53.0, , ,56-44, ,M. Thornton enters the game for T. Jones
+7:53.0,C. McCollum makes free throw 2 of 2,+1,57-44, , 
+7:36.0, , ,57-44, ,J. Harden misses 3-pt jump shot from 24 ft
+7:35.0,Defensive rebound by M. Plumlee, ,57-44, , 
+7:25.0,D. Lillard makes 2-pt jump shot from 20 ft,+2,59-44, , 
+7:11.0, , ,59-47,+3,M. Thornton makes 3-pt jump shot from 24 ft (assist by J. Harden)
+6:54.0,A. Aminu misses 2-pt jump shot from 12 ft, ,59-47, , 
+6:53.0, , ,59-47, ,Defensive rebound by C. Capela
+6:43.0, , ,59-47, ,Turnover by T. Ariza (bad pass; steal by A. Aminu)
+6:37.0,C. McCollum makes 2-pt layup from 2 ft,+2,61-47, , 
+6:29.0, , ,61-47, ,Houston full timeout
+6:29.0, , ,61-47, ,T. Lawson enters the game for J. Terry
+6:10.0, , ,61-47, ,M. Thornton misses 3-pt jump shot from 24 ft
+6:09.0,Defensive rebound by A. Aminu, ,61-47, , 
+5:50.0,D. Lillard makes 2-pt jump shot from 18 ft (assist by M. Plumlee),+2,63-47, , 
+5:41.0, , ,63-47, ,Personal foul by C. McCollum (drawn by J. Harden)
+5:26.0, , ,63-50,+3,J. Harden makes 3-pt jump shot from 24 ft (assist by M. Thornton)
+5:12.0,C. McCollum misses 2-pt jump shot from 10 ft, ,63-50, , 
+5:12.0, , ,63-50, ,Defensive rebound by Team
+5:12.0,Loose ball foul by N. Vonleh (drawn by T. Ariza), ,63-50, , 
+5:12.0,M. Harkless enters the game for C. McCollum, ,63-50, , 
+5:12.0,A. Crabbe enters the game for N. Vonleh, ,63-50, , 
+5:04.0, , ,63-52,+2,C. Capela makes 2-pt dunk at rim (assist by J. Harden)
+4:47.0,M. Harkless makes 2-pt jump shot from 1 ft (assist by D. Lillard),+2,65-52, , 
+4:32.0, , ,65-52, ,Turnover by T. Ariza (bad pass; steal by A. Crabbe)
+4:27.0,A. Crabbe makes 2-pt layup from 1 ft,+2,67-52, , 
+4:00.0, , ,67-52, ,Turnover by Team (shot clock)
+4:00.0, , ,67-52, ,C. Brewer enters the game for T. Ariza
+4:00.0, , ,67-52, ,D. Howard enters the game for C. Capela
+3:46.0,A. Crabbe misses 3-pt jump shot from 23 ft, ,67-52, , 
+3:45.0, , ,67-52, ,Defensive rebound by D. Howard
+3:39.0, , ,67-52, ,J. Harden misses 3-pt jump shot from 24 ft
+3:38.0,Defensive rebound by M. Harkless, ,67-52, , 
+3:36.0,Turnover by M. Harkless (lost ball), ,67-52, , 
+3:26.0, , ,67-52, ,C. Brewer misses 2-pt jump shot from 8 ft
+3:25.0,Defensive rebound by D. Lillard, ,67-52, , 
+3:21.0,Turnover by D. Lillard (traveling), ,67-52, , 
+3:03.0, , ,67-52, ,Turnover by T. Lawson (traveling)
+3:03.0,Portland full timeout, ,67-52, , 
+2:42.0,A. Aminu misses 2-pt layup from 4 ft (block by D. Howard), ,67-52, , 
+2:42.0,Offensive rebound by Team, ,67-52, , 
+2:38.0,A. Aminu makes 2-pt jump shot from 4 ft (assist by M. Plumlee),+2,69-52, , 
+2:20.0, , ,69-54,+2,D. Howard makes 2-pt layup from 2 ft (assist by J. Harden)
+2:20.0, , ,69-54, ,Shooting foul by M. Plumlee (drawn by D. Howard)
+2:20.0,C. McCollum enters the game for D. Lillard, ,69-54, , 
+2:20.0,E. Davis enters the game for M. Plumlee, ,69-54, , 
+2:20.0, , ,69-55,+1,D. Howard makes free throw 1 of 1
+2:06.0,Turnover by C. McCollum (bad pass; steal by J. Harden), ,69-55, , 
+2:02.0, , ,69-55, ,Shooting foul by A. Aminu (drawn by J. Harden)
+2:02.0, , ,69-56,+1,J. Harden makes free throw 1 of 2
+2:02.0,G. Henderson enters the game for A. Aminu, ,69-56, , 
+2:02.0, , ,69-57,+1,J. Harden makes free throw 2 of 2
+1:43.0,C. McCollum makes 2-pt jump shot from 10 ft,+2,71-57, , 
+1:26.0, , ,71-57, ,Shooting foul by M. Harkless (drawn by C. Brewer)
+1:26.0, , ,71-57, ,C. Brewer misses free throw 1 of 2
+1:26.0, , ,71-57, ,Offensive rebound by Team
+1:26.0, , ,71-58,+1,C. Brewer makes free throw 2 of 2
+1:06.0,G. Henderson misses 2-pt jump shot from 15 ft, ,71-58, , 
+1:06.0, , ,71-58, ,Defensive rebound by C. Brewer
+1:00.0, , ,71-58, ,C. Brewer misses 2-pt layup from 3 ft
+0:59.0,Defensive rebound by C. McCollum, ,71-58, , 
+0:49.0,C. McCollum makes 2-pt jump shot from 13 ft,+2,73-58, , 
+0:49.0,Shooting foul by C. Brewer (drawn by C. McCollum), ,73-58, , 
+0:49.0,C. McCollum makes free throw 1 of 1,+1,74-58, , 
+0:37.0, , ,74-58, ,Shooting foul by E. Davis (drawn by J. Harden)
+0:37.0, , ,74-58, ,J. Harden misses free throw 1 of 2
+0:37.0, , ,74-58, ,Offensive rebound by Team
+0:37.0, , ,74-58, ,T. Ariza enters the game for T. Lawson
+0:37.0, , ,74-59,+1,J. Harden makes free throw 2 of 2
+0:30.0,C. McCollum misses 3-pt jump shot from 24 ft, ,74-59, , 
+0:29.0, , ,74-59, ,Defensive rebound by T. Ariza
+0:29.0,Loose ball foul by E. Davis (drawn by T. Ariza), ,74-59, , 
+0:29.0, , ,74-60,+1,T. Ariza makes free throw 1 of 2
+0:29.0, , ,74-61,+1,T. Ariza makes free throw 2 of 2
+0:15.0,G. Henderson makes 2-pt jump shot from 21 ft,+2,76-61, , 
+0:02.0, , ,76-61, ,T. Ariza misses 3-pt jump shot from 24 ft
+0:01.0, , ,76-61, ,Offensive rebound by Team
+0:00.0, , ,76-61, ,M. Thornton misses 2-pt jump shot from 14 ft
+0:00.0, , ,76-61, ,Offensive rebound by Team
+11:44.0,Turnover by M. Harkless (step out of bounds), ,76-61, , 
+11:22.0, , ,76-63,+2,J. Harden makes 2-pt jump shot from 9 ft
+11:02.0,M. Harkless misses 3-pt jump shot from 25 ft, ,76-63, , 
+11:02.0, , ,76-63, ,Defensive rebound by D. Howard
+10:54.0, , ,76-63, ,J. Harden misses 3-pt jump shot from 25 ft
+10:53.0,Defensive rebound by M. Harkless, ,76-63, , 
+10:33.0,E. Davis makes 2-pt dunk at rim (assist by M. Harkless),+2,78-63, , 
+10:11.0, , ,78-66,+3,C. Brewer makes 3-pt jump shot from 24 ft (assist by J. Harden)
+9:42.0,C. McCollum makes 2-pt jump shot from 12 ft,+2,80-66, , 
+9:31.0, , ,80-66, ,J. Harden misses 2-pt jump shot from 10 ft
+9:31.0, , ,80-66, ,Offensive rebound by Team
+9:31.0,Loose ball foul by E. Davis (drawn by D. Howard), ,80-66, , 
+9:20.0, , ,80-68,+2,J. Terry makes 2-pt jump shot from 14 ft
+8:52.0,M. Harkless misses 2-pt jump shot from 17 ft, ,80-68, , 
+8:51.0, , ,80-68, ,Defensive rebound by D. Howard
+8:47.0, , ,80-68, ,Turnover by J. Harden (bad pass; steal by M. Harkless)
+8:43.0,Flagrant foul type 1 by D. Howard (drawn by G. Henderson), ,80-68, , 
+8:43.0,Portland full timeout, ,80-68, , 
+8:43.0,D. Lillard enters the game for C. McCollum, ,80-68, , 
+8:43.0,G. Henderson misses flagrant free throw 1 of 2, ,80-68, , 
+8:43.0,Offensive rebound by Team, ,80-68, , 
+8:43.0,G. Henderson makes flagrant free throw 2 of 2,+1,81-68, , 
+8:27.0,E. Davis misses 2-pt jump shot from 7 ft, ,81-68, , 
+8:26.0, , ,81-68, ,Defensive rebound by T. Jones
+8:19.0, , ,81-70,+2,J. Harden makes 2-pt layup from 2 ft (assist by T. Jones)
+8:04.0,D. Lillard misses 2-pt jump shot from 11 ft, ,81-70, , 
+8:03.0, , ,81-70, ,Defensive rebound by D. Howard
+7:50.0, , ,81-73,+3,C. Brewer makes 3-pt jump shot from 24 ft (assist by J. Harden)
+7:27.0,Shooting foul by J. Terry (drawn by D. Lillard), ,81-73, , 
+7:27.0,D. Lillard makes free throw 1 of 2,+1,82-73, , 
+7:27.0,M. Plumlee enters the game for E. Davis, ,82-73, , 
+7:27.0,C. McCollum enters the game for G. Henderson, ,82-73, , 
+7:27.0,A. Aminu enters the game for M. Harkless, ,82-73, , 
+7:27.0, , ,82-73, ,T. Ariza enters the game for J. Terry
+7:27.0,D. Lillard makes free throw 2 of 2,+1,83-73, , 
+7:15.0, , ,83-75,+2,J. Harden makes 2-pt jump shot from 10 ft
+7:14.0,Portland full timeout, ,83-75, , 
+6:56.0,A. Aminu misses 3-pt jump shot from 23 ft, ,83-75, , 
+6:55.0,Offensive rebound by M. Plumlee, ,83-75, , 
+6:51.0,C. McCollum misses 3-pt jump shot from 24 ft, ,83-75, , 
+6:50.0, , ,83-75, ,Defensive rebound by D. Howard
+6:37.0, , ,83-75, ,Shooting foul by A. Crabbe (drawn by J. Harden)
+6:37.0, , ,83-76,+1,J. Harden makes free throw 1 of 2
+6:37.0, , ,83-76, ,C. Capela enters the game for D. Howard
+6:37.0, , ,83-77,+1,J. Harden makes free throw 2 of 2
+6:27.0,Turnover by C. McCollum (bad pass; steal by T. Ariza), ,83-77, , 
+6:11.0, , ,83-79,+2,C. Capela makes 2-pt layup from 2 ft (assist by J. Harden)
+5:52.0,A. Aminu misses 3-pt jump shot from 23 ft, ,83-79, , 
+5:51.0, , ,83-79, ,Defensive rebound by C. Brewer
+5:43.0, , ,83-81,+2,C. Brewer makes 2-pt jump shot at rim (assist by T. Jones)
+5:34.0,Shooting foul by C. Capela (drawn by D. Lillard), ,83-81, , 
+5:34.0,D. Lillard makes free throw 1 of 2,+1,84-81, , 
+5:34.0,D. Lillard makes free throw 2 of 2,+1,85-81, , 
+5:14.0, , ,85-81, ,J. Harden misses 3-pt jump shot from 23 ft
+5:12.0,Defensive rebound by Team, ,85-81, , 
+4:54.0,C. McCollum makes 3-pt jump shot from 25 ft,+3,88-81, , 
+4:38.0, , ,88-81, ,J. Harden misses 2-pt layup from 3 ft (block by M. Plumlee)
+4:38.0, , ,88-81, ,Offensive rebound by Team
+4:38.0, , ,88-81, ,Houston full timeout
+4:38.0, , ,88-81, ,D. Howard enters the game for C. Capela
+4:38.0, , ,88-81, ,J. Terry enters the game for C. Brewer
+4:28.0, , ,88-81, ,T. Ariza misses 3-pt jump shot from 23 ft
+4:27.0,Defensive rebound by A. Crabbe, ,88-81, , 
+4:11.0,D. Lillard makes 2-pt jump shot from 1 ft (assist by M. Plumlee),+2,90-81, , 
+3:53.0, , ,90-83,+2,T. Ariza makes 2-pt jump shot from 9 ft
+3:40.0,Personal take foul by D. Howard (drawn by M. Plumlee), ,90-83, , 
+3:35.0,D. Lillard misses 3-pt jump shot from 24 ft, ,90-83, , 
+3:34.0,Offensive rebound by A. Aminu, ,90-83, , 
+3:27.0,A. Crabbe misses 2-pt layup from 3 ft, ,90-83, , 
+3:26.0, , ,90-83, ,Defensive rebound by T. Ariza
+3:22.0,Offensive charge foul by J. Harden (drawn by D. Lillard), ,90-83, , 
+3:22.0, , ,90-83, ,Turnover by J. Harden (offensive foul)
+3:19.0,Personal take foul by T. Jones (drawn by M. Plumlee), ,90-83, , 
+3:19.0,M. Plumlee makes free throw 1 of 2,+1,91-83, , 
+3:19.0, , ,91-83, ,M. Thornton enters the game for T. Jones
+3:19.0,M. Plumlee makes free throw 2 of 2,+1,92-83, , 
+3:05.0, , ,92-83, ,J. Harden misses 2-pt layup from 3 ft (block by M. Plumlee)
+3:04.0,Defensive rebound by A. Aminu, ,92-83, , 
+2:52.0,D. Lillard misses 2-pt jump shot from 7 ft, ,92-83, , 
+2:51.0, , ,92-83, ,Defensive rebound by D. Howard
+2:44.0, , ,92-83, ,T. Ariza misses 3-pt jump shot from 24 ft
+2:43.0, , ,92-83, ,Offensive rebound by J. Terry
+2:40.0, , ,92-83, ,M. Thornton misses 3-pt jump shot from 24 ft
+2:39.0,Defensive rebound by A. Crabbe, ,92-83, , 
+2:22.0,A. Crabbe misses 3-pt jump shot from 22 ft, ,92-83, , 
+2:21.0, , ,92-83, ,Defensive rebound by J. Harden
+2:13.0, , ,92-83, ,Shooting foul by M. Plumlee (drawn by J. Harden)
+2:13.0, , ,92-84,+1,J. Harden makes free throw 1 of 2
+2:13.0, , ,92-84, ,C. Brewer enters the game for M. Thornton
+2:13.0, , ,92-85,+1,J. Harden makes free throw 2 of 2
+1:50.0,A. Aminu misses 2-pt jump shot from 17 ft, ,92-85, , 
+1:49.0, , ,92-85, ,Defensive rebound by C. Brewer
+1:45.0, , ,92-85, ,Shooting foul by A. Aminu (drawn by C. Brewer)
+1:45.0, , ,92-86,+1,C. Brewer makes free throw 1 of 2
+1:45.0, , ,92-87,+1,C. Brewer makes free throw 2 of 2
+1:24.0,D. Lillard makes 2-pt layup from 2 ft,+2,94-87, , 
+1:18.0, , ,94-87, ,J. Harden misses 3-pt jump shot from 24 ft
+1:17.0, , ,94-87, ,Offensive rebound by D. Howard
+1:15.0, , ,94-87, ,T. Ariza misses 3-pt jump shot from 24 ft
+1:14.0, , ,94-87, ,Offensive rebound by Team
+1:14.0,Loose ball foul by M. Plumlee (drawn by D. Howard), ,94-87, , 
+1:14.0, , ,94-88,+1,D. Howard makes free throw 1 of 2
+1:14.0, , ,94-89,+1,D. Howard makes free throw 2 of 2
+1:00.0,Personal foul by T. Ariza (drawn by D. Lillard), ,94-89, , 
+1:00.0,D. Lillard makes free throw 1 of 2,+1,95-89, , 
+1:00.0,D. Lillard makes free throw 2 of 2,+1,96-89, , 
+1:00.0, , ,96-89, ,Houston full timeout
+0:57.0, , ,96-89, ,Shooting foul by M. Plumlee (drawn by J. Harden)
+0:57.0, , ,96-90,+1,J. Harden makes free throw 1 of 2
+0:57.0, , ,96-90, ,T. Jones enters the game for J. Terry
+0:57.0, , ,96-91,+1,J. Harden makes free throw 2 of 2
+0:54.0,Turnover by D. Lillard (bad pass; steal by J. Harden), ,96-91, , 
+0:52.0, , ,96-91, ,C. Brewer misses 2-pt layup from 2 ft
+0:50.0,Defensive rebound by C. McCollum, ,96-91, , 
+0:45.0,Personal foul by T. Jones (drawn by C. McCollum), ,96-91, , 
+0:45.0,Portland full timeout, ,96-91, , 
+0:45.0, , ,96-91, ,J. Terry enters the game for T. Jones
+0:45.0,C. McCollum misses free throw 1 of 2, ,96-91, , 
+0:45.0,Offensive rebound by Team, ,96-91, , 
+0:45.0,C. McCollum makes free throw 2 of 2,+1,97-91, , 
+0:39.0, , ,97-94,+3,J. Harden makes 3-pt jump shot from 25 ft (assist by J. Terry)
+0:31.0,Turnover by A. Crabbe (lost ball; steal by J. Harden), ,97-94, , 
+0:30.0, , ,97-94, ,Turnover by T. Ariza (lost ball)
+0:28.0,Portland full timeout, ,97-94, , 
+0:11.0,A. Aminu misses 3-pt jump shot from 24 ft, ,97-94, , 
+0:10.0, , ,97-94, ,Defensive rebound by J. Terry
+0:09.0, , ,97-94, ,Houston full timeout
+0:08.0, , ,97-94, ,Personal take foul by A. Crabbe (drawn by J. Harden)
+0:08.0, , ,97-95,+1,J. Harden makes free throw 1 of 2
+0:08.0, , ,97-95, ,T. Jones enters the game for D. Howard
+0:08.0, , ,97-96,+1,J. Harden makes free throw 2 of 2
+0:07.0,Personal take foul by J. Harden (drawn by A. Aminu), ,97-96, , 
+0:07.0,A. Aminu makes free throw 1 of 2,+1,98-96, , 
+0:07.0, , ,98-96, ,D. Howard enters the game for T. Jones
+0:07.0,A. Aminu makes free throw 2 of 2,+1,99-96, , 
+0:01.0, , ,99-99,+3,C. Brewer makes 3-pt jump shot from 30 ft (assist by J. Harden)
+0:01.0,Portland full timeout, ,99-99, , 
+0:01.0, , ,99-99, ,T. Jones enters the game for J. Terry
+0:00.0,D. Lillard misses 3-pt jump shot from 35 ft (block by J. Harden), ,99-99, , 
+0:00.0,Offensive rebound by Team, ,99-99, , 
+4:41.0, , ,99-101,+2,J. Harden makes 2-pt jump shot from 11 ft
+4:27.0,C. McCollum misses 2-pt jump shot from 11 ft, ,99-101, , 
+4:26.0, , ,99-101, ,Defensive rebound by T. Ariza
+4:12.0, , ,99-103,+2,J. Harden makes 2-pt jump shot from 17 ft
+4:12.0, , ,99-103, ,Shooting foul by A. Crabbe (drawn by J. Harden)
+4:12.0, , ,99-104,+1,J. Harden makes free throw 1 of 1
+3:54.0,A. Aminu makes 2-pt jump shot from 8 ft,+2,101-104, , 
+3:36.0, , ,101-104, ,J. Harden misses 3-pt jump shot from 25 ft
+3:36.0,Defensive rebound by A. Crabbe, ,101-104, , 
+3:13.0,A. Aminu misses 2-pt layup from 4 ft, ,101-104, , 
+3:12.0, , ,101-104, ,Defensive rebound by T. Ariza
+3:04.0, , ,101-104, ,Personal foul by A. Aminu (drawn by J. Terry)
+2:48.0, , ,101-104, ,C. Brewer misses 3-pt jump shot from 24 ft
+2:47.0,Defensive rebound by A. Aminu, ,101-104, , 
+2:38.0,D. Lillard misses 2-pt layup from 3 ft, ,101-104, , 
+2:38.0, , ,101-104, ,Defensive rebound by D. Howard
+2:38.0, , ,101-104, ,Personal foul by M. Plumlee (drawn by D. Howard)
+2:38.0, , ,101-104, ,Houston full timeout
+2:21.0, , ,101-106,+2,J. Harden makes 2-pt layup from 2 ft
+2:02.0,A. Crabbe misses 2-pt jump shot from 18 ft, ,101-106, , 
+2:01.0, , ,101-106, ,Defensive rebound by J. Harden
+1:37.0, , ,101-106, ,J. Harden misses 2-pt layup from 2 ft (block by M. Plumlee)
+1:36.0, , ,101-106, ,Offensive rebound by J. Harden
+1:28.0, , ,101-106, ,Offensive foul by D. Howard (drawn by C. McCollum)
+1:28.0, , ,101-106, ,Turnover by D. Howard (offensive foul)
+1:17.0,D. Lillard misses 3-pt jump shot from 24 ft, ,101-106, , 
+1:16.0, , ,101-106, ,Defensive rebound by J. Harden
+0:54.0, , ,101-106, ,T. Ariza misses 3-pt jump shot from 24 ft
+0:53.0,Defensive rebound by A. Aminu, ,101-106, , 
+0:41.0,D. Lillard makes 2-pt layup from 1 ft,+2,103-106, , 
+0:22.0, , ,103-106, ,Turnover by J. Terry (bad pass; steal by A. Crabbe)
+0:08.0,Turnover by A. Aminu (lost ball; steal by D. Howard), ,103-106, , 
+0:04.0, , ,103-106, ,Personal take foul by C. McCollum (drawn by J. Harden)
+0:04.0, , ,103-107,+1,J. Harden makes free throw 1 of 2
+0:04.0, , ,103-108,+1,J. Harden makes free throw 2 of 2
+0:04.0,Portland full timeout, ,103-108, , 
+0:04.0, , ,103-108, ,T. Jones enters the game for J. Terry
+0:00.0,D. Lillard misses 2-pt layup from 2 ft, ,103-108, , 
+0:00.0,Offensive rebound by Team, ,103-108, , 

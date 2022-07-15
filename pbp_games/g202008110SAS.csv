@@ -1,0 +1,464 @@
+time,away_description,away_change,score,home_change,home_description
+11:43.0,R. Westbrook makes 2-pt jump shot from 8 ft,+2,2-0, , 
+11:25.0, , ,2-2,+2,D. DeRozan makes 2-pt jump shot from 14 ft (assist by D. White)
+11:07.0,P. Tucker makes 3-pt jump shot from 22 ft (assist by R. Westbrook),+3,5-2, , 
+10:52.0, , ,5-2, ,L. Walker misses 3-pt jump shot from 25 ft
+10:51.0,Defensive rebound by R. Westbrook, ,5-2, , 
+10:45.0,R. Westbrook misses 2-pt jump shot from 16 ft, ,5-2, , 
+10:44.0, , ,5-2, ,Defensive rebound by J. Poeltl
+10:29.0, , ,5-2, ,L. Walker misses 2-pt layup from 1 ft
+10:28.0,Defensive rebound by B. McLemore, ,5-2, , 
+10:22.0,B. McLemore makes 2-pt layup from 1 ft,+2,7-2, , 
+10:10.0, , ,7-4,+2,J. Poeltl makes 2-pt layup from 2 ft (assist by D. DeRozan)
+10:02.0,B. McLemore makes 2-pt layup from 3 ft (assist by R. Westbrook),+2,9-4, , 
+9:35.0, , ,9-4, ,J. Poeltl misses 2-pt hook shot from 10 ft
+9:32.0,Defensive rebound by R. Covington, ,9-4, , 
+9:26.0,P. Tucker misses 3-pt jump shot from 23 ft, ,9-4, , 
+9:25.0, , ,9-4, ,Defensive rebound by L. Walker
+9:14.0, , ,9-4, ,D. White misses 3-pt jump shot from 26 ft
+9:13.0,Defensive rebound by R. Westbrook, ,9-4, , 
+9:04.0,Turnover by J. Green (lost ball; steal by J. Poeltl), ,9-4, , 
+9:00.0, , ,9-6,+2,D. White makes 2-pt layup from 1 ft
+8:49.0,R. Westbrook misses 3-pt jump shot from 26 ft, ,9-6, , 
+8:48.0, , ,9-6, ,Defensive rebound by D. White
+8:29.0, , ,9-8,+2,D. DeRozan makes 2-pt jump shot from 13 ft
+8:17.0,J. Green makes 3-pt jump shot from 27 ft (assist by R. Westbrook),+3,12-8, , 
+8:07.0, , ,12-8, ,Personal foul by R. Covington (drawn by D. DeRozan)
+7:59.0, , ,12-10,+2,J. Poeltl makes 2-pt hook shot from 8 ft (assist by D. Murray)
+7:49.0,B. McLemore makes 3-pt jump shot from 28 ft (assist by R. Westbrook),+3,15-10, , 
+7:29.0, , ,15-10, ,D. DeRozan misses 2-pt jump shot from 13 ft
+7:29.0,Defensive rebound by Team, ,15-10, , 
+7:20.0,Offensive foul by P. Tucker (drawn by D. White), ,15-10, , 
+7:20.0,Turnover by P. Tucker (offensive foul), ,15-10, , 
+7:20.0, , ,15-10, ,San Antonio full timeout
+7:20.0,A. Rivers enters the game for B. McLemore, ,15-10, , 
+7:04.0, , ,15-12,+2,J. Poeltl makes 2-pt hook shot from 8 ft (assist by D. Murray)
+6:46.0,R. Covington misses 3-pt jump shot from 22 ft, ,15-12, , 
+6:44.0, , ,15-12, ,Defensive rebound by D. Murray
+6:37.0, , ,15-12, ,D. White misses 3-pt jump shot from 26 ft
+6:36.0,Defensive rebound by R. Covington, ,15-12, , 
+6:28.0,Offensive foul by R. Covington (drawn by D. White), ,15-12, , 
+6:28.0,Turnover by R. Covington (offensive foul), ,15-12, , 
+6:28.0,M. Frazier enters the game for R. Covington, ,15-12, , 
+6:14.0, , ,15-14,+2,D. Murray makes 2-pt jump shot from 16 ft (assist by D. DeRozan)
+6:03.0,R. Westbrook makes 2-pt layup from 3 ft,+2,17-14, , 
+5:50.0, , ,17-14, ,Shooting foul by J. Green (drawn by J. Poeltl)
+5:50.0, , ,17-15,+1,J. Poeltl makes free throw 1 of 2
+5:50.0,B. McLemore enters the game for R. Westbrook, ,17-15, , 
+5:50.0, , ,17-16,+1,J. Poeltl makes free throw 2 of 2
+5:40.0,A. Rivers misses 2-pt layup from 9 ft (block by D. DeRozan), ,17-16, , 
+5:40.0,Offensive rebound by Team, ,17-16, , 
+5:40.0, , ,17-16, ,M. Belinelli enters the game for D. Murray
+5:40.0, , ,17-16, ,K. Johnson enters the game for D. White
+5:28.0,J. Green makes 2-pt layup from 4 ft,+2,19-16, , 
+5:11.0, , ,19-16, ,Shooting foul by B. McLemore (drawn by K. Johnson)
+5:11.0, , ,19-17,+1,K. Johnson makes free throw 1 of 2
+5:11.0, , ,19-18,+1,K. Johnson makes free throw 2 of 2
+5:00.0,B. McLemore misses 2-pt layup from 5 ft, ,19-18, , 
+4:59.0, , ,19-18, ,Defensive rebound by D. DeRozan
+4:59.0, , ,19-18, ,Personal foul by B. McLemore (drawn by D. DeRozan)
+4:45.0, , ,19-18, ,Turnover by J. Poeltl (bad pass; steal by P. Tucker)
+4:39.0,B. McLemore misses 3-pt jump shot from 23 ft, ,19-18, , 
+4:38.0, , ,19-18, ,Defensive rebound by D. DeRozan
+4:30.0, , ,19-20,+2,D. DeRozan makes 2-pt layup from 8 ft
+4:11.0,A. Rivers misses 3-pt jump shot from 27 ft, ,19-20, , 
+4:10.0, , ,19-20, ,Defensive rebound by L. Walker
+3:59.0, , ,19-20, ,D. DeRozan misses 2-pt jump shot from 20 ft
+3:57.0, , ,19-20, ,Offensive rebound by M. Belinelli
+3:43.0, , ,19-20, ,D. DeRozan misses 2-pt jump shot from 11 ft
+3:42.0,Defensive rebound by M. Frazier, ,19-20, , 
+3:34.0,A. Rivers makes 2-pt layup from 2 ft,+2,21-20, , 
+3:13.0, , ,21-20, ,M. Belinelli misses 2-pt jump shot from 19 ft
+3:12.0,Defensive rebound by A. Rivers, ,21-20, , 
+2:58.0,Turnover by B. McLemore (lost ball; steal by D. DeRozan), ,21-20, , 
+2:53.0, , ,21-22,+2,D. DeRozan makes 2-pt dunk from 1 ft
+2:33.0,P. Tucker misses 3-pt jump shot from 25 ft, ,21-22, , 
+2:32.0, , ,21-22, ,Defensive rebound by K. Johnson
+2:23.0, , ,21-24,+2,K. Johnson makes 2-pt layup from 3 ft
+2:23.0,Houston full timeout, ,21-24, , 
+2:23.0,D. Carroll enters the game for J. Green, ,21-24, , 
+2:23.0,R. Covington enters the game for B. McLemore, ,21-24, , 
+2:23.0,R. Westbrook enters the game for P. Tucker, ,21-24, , 
+2:23.0, , ,21-24, ,D. Eubanks enters the game for D. DeRozan
+2:23.0, , ,21-24, ,R. Gay enters the game for J. Poeltl
+2:23.0, , ,21-24, ,Q. Weatherspoon enters the game for L. Walker
+2:14.0,R. Westbrook misses 2-pt layup from 1 ft, ,21-24, , 
+2:13.0, , ,21-24, ,Defensive rebound by D. Eubanks
+2:00.0, , ,21-24, ,K. Johnson misses 2-pt layup from 4 ft
+1:59.0,Defensive rebound by A. Rivers, ,21-24, , 
+1:51.0,A. Rivers makes 2-pt layup from 2 ft,+2,23-24, , 
+1:44.0, , ,23-24, ,Q. Weatherspoon misses 2-pt layup from 2 ft
+1:43.0, , ,23-24, ,Offensive rebound by Team
+1:43.0,Loose ball foul by A. Rivers (drawn by K. Johnson), ,23-24, , 
+1:43.0, , ,23-25,+1,K. Johnson makes free throw 1 of 2
+1:43.0, , ,23-26,+1,K. Johnson makes free throw 2 of 2
+1:31.0,R. Covington misses 3-pt jump shot from 25 ft, ,23-26, , 
+1:30.0, , ,23-26, ,Defensive rebound by D. Eubanks
+1:21.0, , ,23-29,+3,R. Gay makes 3-pt jump shot from 26 ft (assist by Q. Weatherspoon)
+1:08.0,Shooting foul by D. Eubanks (drawn by D. Carroll), ,23-29, , 
+1:08.0,D. Carroll makes free throw 1 of 2,+1,24-29, , 
+1:08.0,D. Carroll makes free throw 2 of 2,+1,25-29, , 
+0:50.0, , ,25-29, ,K. Johnson misses 2-pt jump shot from 17 ft
+0:48.0,Defensive rebound by M. Frazier, ,25-29, , 
+0:35.0,Turnover by R. Westbrook (bad pass; steal by M. Belinelli), ,25-29, , 
+0:28.0, , ,25-29, ,R. Gay misses 3-pt jump shot from 24 ft
+0:26.0, , ,25-29, ,Offensive rebound by D. Eubanks
+0:25.0, , ,25-29, ,D. Eubanks misses 2-pt layup from 2 ft (block by D. Carroll)
+0:25.0, , ,25-29, ,Offensive rebound by K. Johnson
+0:23.0, , ,25-31,+2,K. Johnson makes 2-pt layup from 2 ft
+11:43.0, , ,25-33,+2,D. Eubanks makes 2-pt dunk from 1 ft (assist by K. Johnson)
+11:30.0,Turnover by R. Westbrook (lost ball; steal by D. Murray), ,25-33, , 
+11:23.0, , ,25-36,+3,R. Gay makes 3-pt jump shot from 26 ft (assist by D. Murray)
+11:02.0,R. Westbrook makes 2-pt layup from 1 ft (assist by B. McLemore),+2,27-36, , 
+10:47.0, , ,27-36, ,D. Eubanks misses 2-pt hook shot from 8 ft
+10:47.0,Defensive rebound by A. Rivers, ,27-36, , 
+10:38.0,A. Rivers misses 2-pt layup from 2 ft, ,27-36, , 
+10:37.0, , ,27-36, ,Defensive rebound by K. Johnson
+10:34.0, , ,27-36, ,Turnover by K. Johnson (lost ball; steal by R. Covington)
+10:26.0,Turnover by R. Westbrook (out of bounds lost ball), ,27-36, , 
+10:09.0, , ,27-38,+2,D. Murray makes 2-pt jump shot from 21 ft
+10:02.0,B. McLemore misses 2-pt layup from 4 ft (block by D. Eubanks), ,27-38, , 
+10:01.0, , ,27-38, ,Defensive rebound by R. Gay
+10:01.0, , ,27-38, ,Personal take foul by R. Westbrook (drawn by D. Eubanks)
+10:01.0,M. Frazier enters the game for R. Westbrook, ,27-38, , 
+10:01.0, , ,27-38, ,D. White enters the game for K. Johnson
+9:50.0, , ,27-38, ,Turnover by D. Eubanks (out of bounds lost ball)
+9:38.0,A. Rivers makes 2-pt layup from 2 ft,+2,29-38, , 
+9:28.0, , ,29-38, ,Turnover by D. Murray (bad pass; steal by D. Carroll)
+9:25.0,Turnover by M. Frazier (bad pass; steal by D. Murray), ,29-38, , 
+9:20.0, , ,29-41,+3,M. Belinelli makes 3-pt jump shot from 24 ft (assist by D. Murray)
+9:10.0,Turnover by R. Covington (dbl dribble), ,29-41, , 
+8:57.0, , ,29-41, ,R. Gay misses 2-pt layup from 3 ft (block by R. Covington)
+8:56.0,Defensive rebound by R. Covington, ,29-41, , 
+8:55.0,Personal foul by R. Gay (drawn by R. Covington), ,29-41, , 
+8:42.0,M. Frazier misses 3-pt jump shot from 27 ft, ,29-41, , 
+8:41.0, , ,29-41, ,Defensive rebound by M. Belinelli
+8:28.0, , ,29-43,+2,R. Gay makes 2-pt jump shot from 10 ft
+8:22.0,Shooting foul by M. Belinelli (drawn by M. Frazier), ,29-43, , 
+8:22.0,M. Frazier makes free throw 1 of 2,+1,30-43, , 
+8:22.0,M. Frazier misses free throw 2 of 2, ,30-43, , 
+8:22.0, , ,30-43, ,Defensive rebound by D. Murray
+8:07.0, , ,30-45,+2,M. Belinelli makes 2-pt jump shot from 21 ft (assist by D. White)
+7:59.0,Personal foul by D. Murray (drawn by B. McLemore), ,30-45, , 
+7:59.0,C. Clemons enters the game for M. Frazier, ,30-45, , 
+7:52.0,B. McLemore makes 3-pt jump shot from 27 ft (assist by R. Covington),+3,33-45, , 
+7:32.0, , ,33-45, ,D. Murray misses 2-pt jump shot from 17 ft
+7:31.0,Defensive rebound by R. Covington, ,33-45, , 
+7:24.0,Turnover by R. Covington (traveling), ,33-45, , 
+7:11.0, , ,33-45, ,Turnover by D. Murray (bad pass; steal by C. Clemons)
+7:10.0,Personal foul by R. Gay (drawn by C. Clemons), ,33-45, , 
+7:10.0, , ,33-45, ,J. Poeltl enters the game for M. Belinelli
+7:10.0, , ,33-45, ,L. Walker enters the game for D. Eubanks
+6:57.0,B. McLemore misses 3-pt jump shot from 27 ft, ,33-45, , 
+6:55.0, , ,33-45, ,Defensive rebound by L. Walker
+6:50.0, , ,33-45, ,Shooting foul by C. Clemons (drawn by L. Walker)
+6:50.0, , ,33-45, ,San Antonio full timeout
+6:50.0,J. Green enters the game for D. Carroll, ,33-45, , 
+6:50.0,P. Tucker enters the game for R. Covington, ,33-45, , 
+6:50.0,R. Westbrook enters the game for A. Rivers, ,33-45, , 
+6:50.0, , ,33-45, ,D. DeRozan enters the game for R. Gay
+6:50.0, , ,33-46,+1,L. Walker makes free throw 1 of 2
+6:50.0, , ,33-47,+1,L. Walker makes free throw 2 of 2
+6:40.0,B. McLemore misses 3-pt jump shot from 27 ft, ,33-47, , 
+6:39.0, , ,33-47, ,Defensive rebound by J. Poeltl
+6:26.0, , ,33-47, ,D. White misses 3-pt jump shot from 22 ft
+6:24.0, , ,33-47, ,Offensive rebound by J. Poeltl
+6:22.0, , ,33-47, ,Offensive foul by D. White (drawn by C. Clemons)
+6:22.0, , ,33-47, ,Turnover by D. White (offensive foul)
+6:13.0,R. Westbrook makes 2-pt jump shot from 19 ft,+2,35-47, , 
+5:58.0, , ,35-49,+2,D. DeRozan makes 2-pt jump shot from 11 ft
+5:43.0,C. Clemons misses 3-pt jump shot from 28 ft, ,35-49, , 
+5:42.0, , ,35-49, ,Defensive rebound by L. Walker
+5:26.0, , ,35-52,+3,L. Walker makes 3-pt jump shot from 26 ft (assist by D. Murray)
+5:15.0,R. Westbrook misses 2-pt layup from 5 ft (block by J. Poeltl), ,35-52, , 
+5:13.0, , ,35-52, ,Defensive rebound by J. Poeltl
+5:07.0, , ,35-52, ,D. Murray misses 3-pt jump shot from 24 ft
+5:06.0, , ,35-52, ,Offensive rebound by Team
+5:06.0,Loose ball foul by B. McLemore (drawn by J. Poeltl), ,35-52, , 
+4:57.0, , ,35-52, ,Shooting foul by B. McLemore (drawn by D. DeRozan)
+4:57.0, , ,35-53,+1,D. DeRozan makes free throw 1 of 2
+4:57.0,A. Rivers enters the game for B. McLemore, ,35-53, , 
+4:57.0, , ,35-53, ,K. Johnson enters the game for D. Murray
+4:57.0, , ,35-53, ,D. DeRozan misses free throw 2 of 2
+4:57.0,Defensive rebound by R. Westbrook, ,35-53, , 
+4:39.0,R. Westbrook misses 2-pt jump shot from 9 ft, ,35-53, , 
+4:38.0, , ,35-53, ,Defensive rebound by J. Poeltl
+4:28.0, , ,35-53, ,D. White misses 3-pt jump shot from 24 ft
+4:27.0,Defensive rebound by A. Rivers, ,35-53, , 
+4:19.0,Shooting foul by K. Johnson (drawn by R. Westbrook), ,35-53, , 
+4:19.0,R. Westbrook makes free throw 1 of 2,+1,36-53, , 
+4:19.0,R. Westbrook makes free throw 2 of 2,+1,37-53, , 
+4:03.0, , ,37-53, ,K. Johnson misses 2-pt layup from 6 ft
+4:02.0,Defensive rebound by Team, ,37-53, , 
+3:50.0,A. Rivers misses 2-pt layup from 5 ft, ,37-53, , 
+3:49.0, , ,37-53, ,Defensive rebound by K. Johnson
+3:42.0, , ,37-55,+2,K. Johnson makes 2-pt layup from 2 ft (assist by D. White)
+3:32.0,Personal foul by D. DeRozan (drawn by C. Clemons), ,37-55, , 
+3:32.0,C. Clemons makes free throw 1 of 2,+1,38-55, , 
+3:32.0,C. Clemons makes free throw 2 of 2,+1,39-55, , 
+3:19.0, , ,39-57,+2,J. Poeltl makes 2-pt layup from 2 ft (assist by D. White)
+3:02.0,J. Green makes 2-pt layup from 1 ft (assist by R. Westbrook),+2,41-57, , 
+2:50.0, , ,41-57, ,Shooting foul by C. Clemons (drawn by D. DeRozan)
+2:50.0,Houston full timeout, ,41-57, , 
+2:50.0,R. Covington enters the game for C. Clemons, ,41-57, , 
+2:50.0, , ,41-57, ,R. Gay enters the game for J. Poeltl
+2:50.0, , ,41-57, ,D. Murray enters the game for D. White
+2:50.0, , ,41-58,+1,D. DeRozan makes free throw 1 of 2
+2:50.0, , ,41-59,+1,D. DeRozan makes free throw 2 of 2
+2:41.0,Personal foul by D. Murray (drawn by A. Rivers), ,41-59, , 
+2:41.0,A. Rivers makes free throw 1 of 2,+1,42-59, , 
+2:41.0,A. Rivers makes free throw 2 of 2,+1,43-59, , 
+2:29.0, , ,43-62,+3,L. Walker makes 3-pt jump shot from 28 ft (assist by K. Johnson)
+2:15.0,R. Westbrook misses 2-pt layup from 1 ft, ,43-62, , 
+2:14.0, , ,43-62, ,Defensive rebound by K. Johnson
+2:09.0, , ,43-62, ,R. Gay misses 3-pt jump shot from 27 ft
+2:06.0,Defensive rebound by Team, ,43-62, , 
+1:51.0,J. Green misses 3-pt jump shot from 26 ft, ,43-62, , 
+1:50.0, , ,43-62, ,Defensive rebound by D. DeRozan
+1:44.0, , ,43-62, ,K. Johnson misses 2-pt layup from 2 ft
+1:43.0,Defensive rebound by J. Green, ,43-62, , 
+1:35.0,A. Rivers misses 3-pt jump shot from 26 ft, ,43-62, , 
+1:34.0, , ,43-62, ,Defensive rebound by K. Johnson
+1:26.0, , ,43-62, ,Turnover by L. Walker (dbl dribble)
+1:19.0,R. Westbrook misses 2-pt layup from 1 ft, ,43-62, , 
+1:18.0, , ,43-62, ,Defensive rebound by R. Gay
+1:10.0, , ,43-64,+2,L. Walker makes 2-pt layup from 1 ft (assist by R. Gay)
+1:02.0,A. Rivers makes 2-pt layup from 2 ft,+2,45-64, , 
+0:38.0, , ,45-66,+2,D. DeRozan makes 2-pt jump shot from 22 ft
+0:32.0,J. Green makes 2-pt layup from 2 ft (assist by R. Westbrook),+2,47-66, , 
+0:32.0, , ,47-66, ,Violation by Team (def goaltending)
+0:10.0, , ,47-66, ,R. Gay misses 2-pt jump shot from 12 ft
+0:08.0,Defensive rebound by J. Green, ,47-66, , 
+0:02.0,Personal foul by R. Gay (drawn by J. Green), ,47-66, , 
+0:02.0,J. Green makes free throw 1 of 2,+1,48-66, , 
+0:02.0, , ,48-66, ,J. Poeltl enters the game for R. Gay
+0:02.0,J. Green makes free throw 2 of 2,+1,49-66, , 
+0:00.0, , ,49-66, ,L. Walker misses 3-pt jump shot from 50 ft
+0:00.0, , ,49-66, ,Offensive rebound by Team
+11:48.0, , ,49-66, ,Shooting foul by P. Tucker (drawn by D. DeRozan)
+11:48.0, , ,49-67,+1,D. DeRozan makes free throw 1 of 2
+11:48.0, , ,49-68,+1,D. DeRozan makes free throw 2 of 2
+11:37.0,B. McLemore misses 3-pt jump shot from 28 ft, ,49-68, , 
+11:36.0, , ,49-68, ,Defensive rebound by D. DeRozan
+11:23.0, , ,49-68, ,L. Walker misses 2-pt layup from 2 ft
+11:22.0,Defensive rebound by J. Green, ,49-68, , 
+11:16.0,J. Green makes 2-pt layup from 2 ft,+2,51-68, , 
+11:05.0, , ,51-70,+2,D. Murray makes 2-pt jump shot from 12 ft
+11:05.0,Loose ball foul by J. Green (drawn by J. Poeltl), ,51-70, , 
+11:05.0, , ,51-70, ,J. Poeltl misses free throw 1 of 1
+11:05.0,Defensive rebound by R. Covington, ,51-70, , 
+10:53.0,R. Covington misses 3-pt jump shot from 27 ft, ,51-70, , 
+10:52.0,Offensive rebound by R. Covington, ,51-70, , 
+10:48.0,R. Westbrook makes 3-pt jump shot from 27 ft (assist by R. Covington),+3,54-70, , 
+10:34.0, , ,54-70, ,Turnover by D. White (bad pass; steal by R. Covington)
+10:22.0,Turnover by R. Westbrook (lost ball; steal by L. Walker), ,54-70, , 
+10:18.0, , ,54-72,+2,L. Walker makes 2-pt layup from 2 ft
+10:03.0,R. Westbrook misses 3-pt jump shot from 27 ft, ,54-72, , 
+10:02.0, , ,54-72, ,Defensive rebound by L. Walker
+9:55.0, , ,54-72, ,Offensive foul by L. Walker (drawn by R. Westbrook)
+9:55.0, , ,54-72, ,Turnover by L. Walker (offensive foul)
+9:46.0,Turnover by R. Westbrook (bad pass), ,54-72, , 
+9:30.0, , ,54-74,+2,J. Poeltl makes 2-pt layup from 4 ft (assist by D. DeRozan)
+9:25.0,Shooting foul by J. Poeltl (drawn by R. Covington), ,54-74, , 
+9:25.0,R. Covington makes free throw 1 of 2,+1,55-74, , 
+9:25.0,R. Covington makes free throw 2 of 2,+1,56-74, , 
+9:09.0, , ,56-74, ,D. White misses 3-pt jump shot from 22 ft
+9:07.0,Defensive rebound by J. Green, ,56-74, , 
+8:55.0,B. McLemore makes 3-pt jump shot from 23 ft (assist by R. Covington),+3,59-74, , 
+8:42.0, , ,59-74, ,D. Murray misses 3-pt jump shot from 23 ft
+8:41.0,Defensive rebound by R. Covington, ,59-74, , 
+8:33.0,R. Westbrook makes 2-pt layup from 2 ft,+2,61-74, , 
+8:33.0, , ,61-74, ,San Antonio full timeout
+8:21.0, , ,61-74, ,Turnover by L. Walker (lost ball; steal by R. Westbrook)
+8:17.0,Turnover by R. Westbrook (bad pass; steal by D. DeRozan), ,61-74, , 
+8:09.0, , ,61-74, ,Shooting foul by R. Covington (drawn by D. White)
+8:09.0, , ,61-75,+1,D. White makes free throw 1 of 2
+8:09.0, , ,61-76,+1,D. White makes free throw 2 of 2
+7:53.0,R. Westbrook misses 2-pt jump shot from 15 ft, ,61-76, , 
+7:52.0, , ,61-76, ,Defensive rebound by J. Poeltl
+7:39.0, , ,61-78,+2,D. DeRozan makes 2-pt jump shot from 18 ft
+7:20.0,J. Green misses 3-pt jump shot from 28 ft, ,61-78, , 
+7:19.0, , ,61-78, ,Defensive rebound by L. Walker
+7:10.0, , ,61-78, ,L. Walker misses 3-pt jump shot from 26 ft
+7:09.0,Defensive rebound by B. McLemore, ,61-78, , 
+7:00.0,R. Covington misses 3-pt jump shot from 29 ft, ,61-78, , 
+6:59.0,Offensive rebound by P. Tucker, ,61-78, , 
+6:49.0,R. Westbrook makes 3-pt jump shot from 27 ft,+3,64-78, , 
+6:32.0, , ,64-80,+2,J. Poeltl makes 2-pt layup from 7 ft (assist by D. White)
+6:20.0,B. McLemore misses 3-pt jump shot from 27 ft, ,64-80, , 
+6:19.0,Offensive rebound by R. Covington, ,64-80, , 
+6:13.0,J. Green misses 3-pt jump shot from 27 ft, ,64-80, , 
+6:12.0, , ,64-80, ,Defensive rebound by J. Poeltl
+5:59.0, , ,64-80, ,Offensive foul by L. Walker (drawn by J. Green)
+5:59.0, , ,64-80, ,Turnover by L. Walker (offensive foul)
+5:59.0,A. Rivers enters the game for B. McLemore, ,64-80, , 
+5:59.0, , ,64-80, ,M. Belinelli enters the game for D. Murray
+5:59.0, , ,64-80, ,K. Johnson enters the game for D. White
+5:50.0,R. Covington makes 2-pt layup from 3 ft (assist by J. Green),+2,66-80, , 
+5:50.0,Shooting foul by J. Poeltl (drawn by R. Covington), ,66-80, , 
+5:50.0,R. Covington misses free throw 1 of 1, ,66-80, , 
+5:50.0, , ,66-80, ,Defensive rebound by K. Johnson
+5:38.0, , ,66-83,+3,K. Johnson makes 3-pt jump shot from 22 ft (assist by M. Belinelli)
+5:25.0,Turnover by R. Westbrook (bad pass; steal by L. Walker), ,66-83, , 
+5:03.0, , ,66-85,+2,D. DeRozan makes 2-pt jump shot from 20 ft (assist by L. Walker)
+5:01.0,Houston full timeout, ,66-85, , 
+5:01.0,M. Frazier enters the game for J. Green, ,66-85, , 
+4:45.0,P. Tucker misses 3-pt jump shot from 23 ft, ,66-85, , 
+4:44.0, , ,66-85, ,Defensive rebound by D. DeRozan
+4:35.0, , ,66-85, ,D. DeRozan misses 2-pt jump shot from 15 ft
+4:34.0, , ,66-85, ,Offensive rebound by J. Poeltl
+4:29.0, , ,66-85, ,L. Walker misses 3-pt jump shot from 26 ft
+4:27.0,Defensive rebound by M. Frazier, ,66-85, , 
+4:21.0,R. Westbrook makes 2-pt layup from 1 ft,+2,68-85, , 
+4:02.0, , ,68-88,+3,K. Johnson makes 3-pt jump shot from 25 ft (assist by L. Walker)
+3:46.0,P. Tucker misses 3-pt jump shot from 22 ft, ,68-88, , 
+3:45.0, , ,68-88, ,Defensive rebound by K. Johnson
+3:26.0, , ,68-88, ,M. Belinelli misses 2-pt jump shot from 22 ft
+3:25.0,Defensive rebound by R. Westbrook, ,68-88, , 
+3:21.0,R. Covington misses 2-pt layup from 2 ft, ,68-88, , 
+3:20.0, , ,68-88, ,Defensive rebound by D. DeRozan
+3:10.0, , ,68-91,+3,M. Belinelli makes 3-pt jump shot from 27 ft (assist by K. Johnson)
+2:50.0,M. Frazier makes 3-pt jump shot from 23 ft (assist by P. Tucker),+3,71-91, , 
+2:36.0, , ,71-91, ,M. Belinelli misses 2-pt jump shot from 12 ft
+2:35.0,Defensive rebound by R. Westbrook, ,71-91, , 
+2:25.0,R. Covington misses 3-pt jump shot from 26 ft, ,71-91, , 
+2:24.0, , ,71-91, ,Defensive rebound by J. Poeltl
+2:08.0, , ,71-93,+2,D. DeRozan makes 2-pt jump shot from 10 ft
+1:52.0,Turnover by A. Rivers (bad pass), ,71-93, , 
+1:52.0,D. Carroll enters the game for P. Tucker, ,71-93, , 
+1:52.0,J. Green enters the game for R. Westbrook, ,71-93, , 
+1:52.0, , ,71-93, ,D. Eubanks enters the game for D. DeRozan
+1:52.0, , ,71-93, ,R. Gay enters the game for J. Poeltl
+1:52.0, , ,71-93, ,D. White enters the game for L. Walker
+1:37.0, , ,71-93, ,Shooting foul by A. Rivers (drawn by D. Eubanks)
+1:37.0, , ,71-94,+1,D. Eubanks makes free throw 1 of 2
+1:37.0, , ,71-95,+1,D. Eubanks makes free throw 2 of 2
+1:26.0,A. Rivers makes 3-pt jump shot from 27 ft (assist by D. Carroll),+3,74-95, , 
+1:11.0, , ,74-95, ,Turnover by D. Eubanks (bad pass; steal by R. Covington)
+1:07.0,R. Covington makes 2-pt layup from 1 ft,+2,76-95, , 
+0:47.0, , ,76-95, ,Turnover by M. Belinelli (lost ball; steal by R. Covington)
+0:41.0,J. Green makes 2-pt layup from 2 ft,+2,78-95, , 
+0:31.0, , ,78-95, ,M. Belinelli misses 2-pt hook shot from 8 ft (block by R. Covington)
+0:30.0,Defensive rebound by R. Covington, ,78-95, , 
+0:09.0,D. Carroll misses 2-pt layup from 3 ft, ,78-95, , 
+0:08.0, , ,78-95, ,Defensive rebound by D. White
+0:01.0, , ,78-98,+3,R. Gay makes 3-pt jump shot from 27 ft (assist by D. White)
+11:47.0,R. Covington misses 3-pt jump shot from 26 ft, ,78-98, , 
+11:46.0, , ,78-98, ,Defensive rebound by K. Johnson
+11:30.0, , ,78-98, ,Turnover by D. White (bad pass; steal by A. Rivers)
+11:23.0,Turnover by A. Rivers (bad pass; steal by R. Gay), ,78-98, , 
+11:16.0, , ,78-98, ,D. White misses 3-pt jump shot from 26 ft
+11:15.0,Defensive rebound by A. Rivers, ,78-98, , 
+11:05.0,B. McLemore makes 3-pt jump shot from 27 ft (assist by J. Green),+3,81-98, , 
+10:48.0, , ,81-98, ,Turnover by K. Johnson (traveling)
+10:48.0,C. Clemons enters the game for R. Covington, ,81-98, , 
+10:35.0,D. Carroll makes 2-pt jump shot from 11 ft (assist by A. Rivers),+2,83-98, , 
+10:12.0, , ,83-101,+3,D. White makes 3-pt jump shot from 26 ft
+10:00.0,A. Rivers misses 3-pt jump shot from 26 ft, ,83-101, , 
+9:59.0, , ,83-101, ,Defensive rebound by D. Eubanks
+9:45.0, , ,83-101, ,D. Murray misses 2-pt jump shot from 20 ft
+9:44.0,Defensive rebound by C. Clemons, ,83-101, , 
+9:38.0,D. Carroll makes 2-pt layup from 2 ft (assist by C. Clemons),+2,85-101, , 
+9:37.0, , ,85-101, ,San Antonio full timeout
+9:37.0, , ,85-101, ,J. Poeltl enters the game for D. Eubanks
+9:17.0, , ,85-101, ,D. White misses 3-pt jump shot from 27 ft
+9:16.0,Defensive rebound by C. Clemons, ,85-101, , 
+9:09.0,B. McLemore misses 3-pt jump shot from 27 ft, ,85-101, , 
+9:08.0, , ,85-101, ,Defensive rebound by R. Gay
+8:59.0, , ,85-101, ,R. Gay misses 3-pt jump shot from 27 ft
+8:58.0,Defensive rebound by A. Rivers, ,85-101, , 
+8:47.0,Shooting foul by D. White (drawn by J. Green), ,85-101, , 
+8:47.0,J. Green makes free throw 1 of 2,+1,86-101, , 
+8:47.0,J. Green makes free throw 2 of 2,+1,87-101, , 
+8:25.0, , ,87-103,+2,K. Johnson makes 2-pt jump shot from 9 ft
+8:11.0,C. Clemons misses 3-pt jump shot from 27 ft, ,87-103, , 
+8:10.0, , ,87-103, ,Defensive rebound by R. Gay
+7:55.0, , ,87-103, ,Turnover by D. Murray (bad pass; steal by C. Clemons)
+7:50.0,B. McLemore misses 3-pt jump shot from 27 ft, ,87-103, , 
+7:49.0, , ,87-103, ,Defensive rebound by J. Poeltl
+7:44.0, , ,87-105,+2,K. Johnson makes 2-pt layup from 2 ft (assist by D. Murray)
+7:44.0, , ,87-105, ,Shooting foul by B. McLemore (drawn by K. Johnson)
+7:44.0, , ,87-105, ,D. DeRozan enters the game for D. White
+7:44.0, , ,87-106,+1,K. Johnson makes free throw 1 of 1
+7:33.0,A. Rivers misses 2-pt layup from 2 ft, ,87-106, , 
+7:32.0, , ,87-106, ,Defensive rebound by R. Gay
+7:22.0, , ,87-109,+3,D. Murray makes 3-pt jump shot from 24 ft (assist by D. DeRozan)
+7:07.0,B. McLemore misses 3-pt jump shot from 23 ft, ,87-109, , 
+7:04.0, , ,87-109, ,Defensive rebound by J. Poeltl
+6:55.0, , ,87-109, ,R. Gay misses 2-pt jump shot from 17 ft
+6:54.0,Defensive rebound by B. McLemore, ,87-109, , 
+6:46.0,C. Clemons misses 3-pt jump shot from 26 ft, ,87-109, , 
+6:45.0, , ,87-109, ,Defensive rebound by K. Johnson
+6:35.0, , ,87-109, ,D. Murray misses 2-pt jump shot from 13 ft
+6:34.0, , ,87-109, ,Offensive rebound by J. Poeltl
+6:30.0, , ,87-112,+3,K. Johnson makes 3-pt jump shot from 27 ft (assist by J. Poeltl)
+6:15.0,C. Clemons misses 2-pt layup from 3 ft, ,87-112, , 
+6:14.0, , ,87-112, ,Defensive rebound by K. Johnson
+6:08.0, , ,87-114,+2,R. Gay makes 2-pt layup from 2 ft (assist by D. Murray)
+6:05.0,Houston full timeout, ,87-114, , 
+6:05.0,B. Caboclo enters the game for J. Green, ,87-114, , 
+6:05.0,M. Frazier enters the game for B. McLemore, ,87-114, , 
+6:05.0,L. Mbah a Moute enters the game for A. Rivers, ,87-114, , 
+6:05.0, , ,87-114, ,C. Metu enters the game for D. DeRozan
+6:05.0, , ,87-114, ,L. Walker enters the game for R. Gay
+6:05.0, , ,87-114, ,Q. Weatherspoon enters the game for J. Poeltl
+5:56.0,Personal foul by Q. Weatherspoon (drawn by D. Carroll), ,87-114, , 
+5:51.0,D. Carroll misses 3-pt jump shot from 29 ft, ,87-114, , 
+5:50.0, , ,87-114, ,Defensive rebound by C. Metu
+5:34.0, , ,87-116,+2,D. Murray makes 2-pt layup from 1 ft
+5:18.0,C. Clemons makes 3-pt jump shot from 28 ft (assist by D. Carroll),+3,90-116, , 
+4:58.0, , ,90-116, ,Turnover by C. Metu (3 sec)
+4:58.0, , ,90-116, ,M. Belinelli enters the game for K. Johnson
+4:58.0, , ,90-116, ,L. Šamanić enters the game for D. Murray
+4:45.0,D. Carroll misses 2-pt layup from 2 ft (block by L. Šamanić), ,90-116, , 
+4:44.0,Offensive rebound by D. Carroll, ,90-116, , 
+4:42.0,C. Clemons makes 3-pt jump shot from 27 ft (assist by D. Carroll),+3,93-116, , 
+4:25.0, , ,93-116, ,L. Walker misses 2-pt jump shot from 11 ft
+4:24.0,Defensive rebound by Team, ,93-116, , 
+4:24.0, , ,93-116, ,Loose ball foul by C. Metu (drawn by C. Clemons)
+4:13.0,B. Caboclo misses 2-pt jump shot from 20 ft, ,93-116, , 
+4:12.0, , ,93-116, ,Defensive rebound by L. Walker
+4:02.0, , ,93-116, ,Turnover by L. Walker (bad pass; steal by L. Mbah a Moute)
+3:57.0,Turnover by L. Mbah a Moute (bad pass; steal by C. Metu), ,93-116, , 
+3:54.0, , ,93-118,+2,C. Metu makes 2-pt dunk from 1 ft (assist by L. Walker)
+3:38.0,M. Frazier misses 3-pt jump shot from 24 ft, ,93-118, , 
+3:37.0, , ,93-118, ,Defensive rebound by L. Šamanić
+3:28.0, , ,93-118, ,L. Walker misses 2-pt jump shot from 21 ft
+3:24.0,Defensive rebound by C. Clemons, ,93-118, , 
+3:23.0,Personal take foul by L. Šamanić (drawn by C. Clemons), ,93-118, , 
+3:23.0, , ,93-118, ,D. Eubanks enters the game for L. Walker
+3:13.0,M. Frazier misses 3-pt jump shot from 28 ft, ,93-118, , 
+3:12.0, , ,93-118, ,Defensive rebound by D. Eubanks
+3:02.0, , ,93-118, ,D. Eubanks misses 2-pt hook shot from 9 ft
+3:01.0, , ,93-118, ,Offensive rebound by D. Eubanks
+2:52.0, , ,93-118, ,M. Belinelli misses 3-pt jump shot from 28 ft
+2:51.0,Defensive rebound by B. Caboclo, ,93-118, , 
+2:46.0,C. Clemons misses 3-pt jump shot from 28 ft, ,93-118, , 
+2:45.0, , ,93-118, ,Defensive rebound by L. Šamanić
+2:38.0, , ,93-118, ,Turnover by L. Šamanić (lost ball; steal by L. Mbah a Moute)
+2:32.0,Personal foul by L. Šamanić (drawn by C. Clemons), ,93-118, , 
+2:32.0, , ,93-118, ,San Antonio full timeout
+2:32.0,C. Clemons makes free throw 1 of 2,+1,94-118, , 
+2:32.0,C. Clemons makes free throw 2 of 2,+1,95-118, , 
+2:24.0, , ,95-118, ,Personal foul by B. Caboclo (drawn by D. Eubanks)
+2:20.0, , ,95-118, ,Personal foul by B. Caboclo (drawn by D. Eubanks)
+2:17.0, , ,95-118, ,Turnover by Q. Weatherspoon (bad pass; steal by B. Caboclo)
+2:14.0,B. Caboclo makes 2-pt dunk from 1 ft,+2,97-118, , 
+1:55.0, , ,97-118, ,Turnover by C. Metu (out of bounds lost ball)
+1:41.0,C. Clemons makes 3-pt jump shot from 28 ft,+3,100-118, , 
+1:32.0, , ,100-121,+3,M. Belinelli makes 3-pt jump shot from 28 ft (assist by Q. Weatherspoon)
+1:15.0,M. Frazier misses 2-pt layup from 3 ft (block by C. Metu), ,100-121, , 
+1:14.0, , ,100-121, ,Defensive rebound by M. Belinelli
+1:03.0, , ,100-121, ,Turnover by C. Metu (lost ball; steal by D. Carroll)
+1:00.0,Personal foul by Q. Weatherspoon (drawn by M. Frazier), ,100-121, , 
+1:00.0,M. Frazier makes free throw 1 of 2,+1,101-121, , 
+1:00.0,M. Frazier makes free throw 2 of 2,+1,102-121, , 
+0:44.0, , ,102-121, ,L. Šamanić misses 2-pt hook shot from 5 ft
+0:43.0,Defensive rebound by M. Frazier, ,102-121, , 
+0:36.0,Turnover by M. Frazier (bad pass), ,102-121, , 
+0:16.0, , ,102-121, ,M. Belinelli misses 3-pt jump shot from 26 ft
+0:14.0, , ,102-121, ,Offensive rebound by D. Eubanks
+0:09.0, , ,102-121, ,L. Šamanić misses 3-pt jump shot from 28 ft
+0:07.0, , ,102-121, ,Offensive rebound by M. Belinelli
+0:07.0, , ,102-123,+2,M. Belinelli makes 2-pt layup from 1 ft
+0:00.0,B. Caboclo makes 3-pt jump shot from 30 ft,+3,105-123, , 

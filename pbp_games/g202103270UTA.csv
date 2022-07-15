@@ -1,0 +1,492 @@
+time,away_description,away_change,score,home_change,home_description
+12:00.0, , ,0-0, ,Violation by Team (delay of game)
+11:41.0,D. Brooks makes 2-pt jump shot from 18 ft (assist by J. Valančiūnas),+2,2-0, , 
+11:23.0, , ,2-2,+2,D. Mitchell makes 2-pt jump shot from 14 ft (assist by R. Gobert)
+11:12.0,J. Valančiūnas makes 2-pt jump shot from 8 ft (assist by J. Morant),+2,4-2, , 
+10:49.0, , ,4-2, ,B. Bogdanović misses 2-pt layup from 2 ft
+10:47.0,Defensive rebound by G. Allen, ,4-2, , 
+10:44.0,Shooting foul by R. O'Neale (drawn by G. Allen), ,4-2, , 
+10:44.0,G. Allen makes free throw 1 of 2,+1,5-2, , 
+10:44.0,G. Allen makes free throw 2 of 2,+1,6-2, , 
+10:29.0, , ,6-2, ,R. Gobert misses 2-pt layup from 2 ft
+10:26.0,Defensive rebound by G. Allen, ,6-2, , 
+10:21.0,Shooting foul by R. Gobert (drawn by J. Valančiūnas), ,6-2, , 
+10:21.0,J. Valančiūnas makes free throw 1 of 2,+1,7-2, , 
+10:21.0,J. Valančiūnas makes free throw 2 of 2,+1,8-2, , 
+10:12.0, , ,8-5,+3,D. Mitchell makes 3-pt jump shot from 25 ft
+9:57.0,D. Brooks misses 2-pt layup from 6 ft, ,8-5, , 
+9:56.0,Offensive rebound by D. Brooks, ,8-5, , 
+9:56.0,Turnover by D. Brooks (bad pass), ,8-5, , 
+9:48.0, , ,8-7,+2,D. Mitchell makes 2-pt layup from 2 ft
+9:48.0, , ,8-7, ,Shooting foul by K. Anderson (drawn by D. Mitchell)
+9:48.0, , ,8-8,+1,D. Mitchell makes free throw 1 of 1
+9:36.0,Offensive foul by J. Valančiūnas (drawn by R. Gobert), ,8-8, , 
+9:36.0,Turnover by J. Valančiūnas (offensive foul), ,8-8, , 
+9:30.0, , ,8-11,+3,J. Ingles makes 3-pt jump shot from 25 ft (assist by D. Mitchell)
+9:08.0,J. Morant misses 2-pt layup from 3 ft (block by R. Gobert), ,8-11, , 
+9:06.0, , ,8-11, ,Defensive rebound by R. O'Neale
+9:01.0, , ,8-11, ,Turnover by R. O'Neale (bad pass; steal by G. Allen)
+8:57.0,G. Allen makes 3-pt jump shot from 29 ft (assist by K. Anderson),+3,11-11, , 
+8:45.0, , ,11-11, ,Shooting foul by D. Brooks (drawn by D. Mitchell)
+8:45.0, , ,11-12,+1,D. Mitchell makes free throw 1 of 2
+8:45.0, , ,11-13,+1,D. Mitchell makes free throw 2 of 2
+8:35.0,K. Anderson makes 2-pt jump shot from 14 ft (assist by J. Morant),+2,13-13, , 
+8:24.0, , ,13-13, ,Shooting foul by D. Brooks (drawn by R. Gobert)
+8:24.0, , ,13-14,+1,R. Gobert makes free throw 1 of 2
+8:24.0,J. Winslow enters the game for D. Brooks, ,13-14, , 
+8:24.0, , ,13-15,+1,R. Gobert makes free throw 2 of 2
+8:11.0,J. Valančiūnas misses 2-pt layup from 3 ft, ,13-15, , 
+8:10.0, , ,13-15, ,Defensive rebound by Team
+7:51.0, , ,13-17,+2,R. Gobert makes 2-pt layup from 2 ft (assist by J. Ingles)
+7:30.0,K. Anderson misses 2-pt jump shot from 8 ft, ,13-17, , 
+7:27.0, , ,13-17, ,Defensive rebound by R. Gobert
+7:24.0, , ,13-20,+3,D. Mitchell makes 3-pt jump shot from 26 ft
+7:22.0,Memphis full timeout, ,13-20, , 
+7:22.0, , ,13-20, ,J. Clarkson enters the game for R. Gobert
+7:22.0, , ,13-20, ,D. Favors enters the game for J. Ingles
+7:11.0,Turnover by J. Winslow (bad pass; steal by D. Mitchell), ,13-20, , 
+7:08.0, , ,13-20, ,Turnover by D. Mitchell (bad pass; steal by K. Anderson)
+7:05.0,G. Allen misses 3-pt jump shot from 26 ft, ,13-20, , 
+7:04.0,Offensive rebound by J. Valančiūnas, ,13-20, , 
+6:53.0,Turnover by J. Valančiūnas (3 sec), ,13-20, , 
+6:43.0, , ,13-22,+2,D. Mitchell makes 2-pt jump shot from 10 ft
+6:43.0, , ,13-22, ,Shooting foul by J. Winslow (drawn by D. Mitchell)
+6:43.0, , ,13-23,+1,D. Mitchell makes free throw 1 of 1
+6:31.0,J. Morant misses 2-pt jump shot from 5 ft, ,13-23, , 
+6:29.0, , ,13-23, ,Defensive rebound by R. O'Neale
+6:14.0, , ,13-23, ,R. O'Neale misses 3-pt jump shot from 25 ft
+6:12.0,Defensive rebound by K. Anderson, ,13-23, , 
+6:04.0,K. Anderson makes 2-pt jump shot from 9 ft,+2,15-23, , 
+5:49.0, , ,15-23, ,B. Bogdanović misses 2-pt jump shot from 14 ft (block by K. Anderson)
+5:48.0,Defensive rebound by J. Valančiūnas, ,15-23, , 
+5:48.0,Personal foul by B. Bogdanović (drawn by J. Valančiūnas), ,15-23, , 
+5:48.0,B. Clarke enters the game for J. Valančiūnas, ,15-23, , 
+5:34.0,Personal foul by B. Bogdanović (drawn by B. Clarke), ,15-23, , 
+5:29.0,K. Anderson misses 2-pt jump shot from 12 ft, ,15-23, , 
+5:25.0, , ,15-23, ,Defensive rebound by D. Favors
+5:14.0, , ,15-23, ,Turnover by J. Clarkson (lost ball; steal by K. Anderson)
+5:11.0,K. Anderson makes 2-pt layup from 3 ft (assist by G. Allen),+2,17-23, , 
+4:54.0, , ,17-23, ,Turnover by D. Mitchell (bad pass; steal by J. Winslow)
+4:49.0,J. Morant misses 3-pt jump shot from 23 ft, ,17-23, , 
+4:45.0, , ,17-23, ,Defensive rebound by R. O'Neale
+4:27.0, , ,17-26,+3,J. Clarkson makes 3-pt jump shot from 24 ft (assist by D. Favors)
+4:14.0,K. Anderson misses 3-pt jump shot from 26 ft, ,17-26, , 
+4:12.0, , ,17-26, ,Defensive rebound by D. Favors
+4:06.0, , ,17-26, ,B. Bogdanović misses 2-pt layup from 4 ft
+4:02.0, , ,17-26, ,Offensive rebound by D. Favors
+4:02.0, , ,17-28,+2,D. Favors makes 2-pt layup at rim
+3:47.0,J. Morant misses 2-pt jump shot from 12 ft, ,17-28, , 
+3:44.0, , ,17-28, ,Defensive rebound by R. O'Neale
+3:35.0, , ,17-28, ,J. Clarkson misses 2-pt jump shot from 6 ft
+3:33.0,Defensive rebound by G. Allen, ,17-28, , 
+3:28.0,G. Allen misses 3-pt jump shot from 26 ft, ,17-28, , 
+3:26.0, , ,17-28, ,Defensive rebound by D. Favors
+3:18.0, , ,17-28, ,D. Mitchell misses 3-pt jump shot from 25 ft
+3:17.0,Defensive rebound by J. Winslow, ,17-28, , 
+3:08.0,J. Winslow misses 2-pt layup from 5 ft, ,17-28, , 
+3:06.0,Offensive rebound by B. Clarke, ,17-28, , 
+3:06.0,B. Clarke makes 2-pt layup at rim,+2,19-28, , 
+3:06.0, , ,19-28, ,Utah full timeout
+3:06.0,D. Bane enters the game for G. Allen, ,19-28, , 
+3:06.0,T. Jones enters the game for K. Anderson, ,19-28, , 
+3:06.0,D. Melton enters the game for J. Morant, ,19-28, , 
+3:06.0, , ,19-28, ,R. Gobert enters the game for B. Bogdanović
+3:06.0, , ,19-28, ,J. Ingles enters the game for D. Favors
+3:06.0, , ,19-28, ,G. Niang enters the game for D. Mitchell
+3:06.0, , ,19-28, ,M. Oni enters the game for R. O'Neale
+2:51.0, , ,19-30,+2,J. Clarkson makes 2-pt jump shot from 9 ft
+2:39.0,B. Clarke misses 2-pt jump shot from 9 ft, ,19-30, , 
+2:36.0, , ,19-30, ,Defensive rebound by R. Gobert
+2:26.0, , ,19-30, ,J. Clarkson misses 3-pt jump shot from 26 ft
+2:23.0,Defensive rebound by T. Jones, ,19-30, , 
+2:17.0,J. Winslow misses 2-pt jump shot from 17 ft, ,19-30, , 
+2:14.0, , ,19-30, ,Defensive rebound by J. Clarkson
+1:54.0, , ,19-32,+2,J. Clarkson makes 2-pt jump shot from 6 ft
+1:40.0,T. Jones misses 2-pt jump shot from 10 ft, ,19-32, , 
+1:38.0, , ,19-32, ,Defensive rebound by R. Gobert
+1:28.0, , ,19-32, ,M. Oni misses 3-pt jump shot from 22 ft
+1:24.0,Defensive rebound by B. Clarke, ,19-32, , 
+1:21.0,D. Melton misses 3-pt jump shot from 25 ft, ,19-32, , 
+1:19.0, , ,19-32, ,Defensive rebound by Team
+1:10.0, , ,19-35,+3,G. Niang makes 3-pt jump shot from 25 ft (assist by J. Ingles)
+0:50.0,J. Winslow misses 3-pt jump shot from 26 ft, ,19-35, , 
+0:48.0, , ,19-35, ,Defensive rebound by R. Gobert
+0:39.0, , ,19-37,+2,R. Gobert makes 2-pt dunk from 1 ft (assist by J. Clarkson)
+0:32.0,Turnover by T. Jones (lost ball; steal by G. Niang), ,19-37, , 
+0:16.0, , ,19-37, ,Shooting foul by D. Melton (drawn by J. Ingles)
+0:16.0, , ,19-38,+1,J. Ingles makes free throw 1 of 2
+0:16.0,J. Valančiūnas enters the game for J. Winslow, ,19-38, , 
+0:16.0, , ,19-39,+1,J. Ingles makes free throw 2 of 2
+0:02.0,D. Bane misses 3-pt jump shot from 25 ft, ,19-39, , 
+0:02.0, , ,19-39, ,Defensive rebound by R. Gobert
+0:00.0, , ,19-39, ,R. Gobert misses 3-pt jump shot from 75 ft
+0:00.0, , ,19-39, ,Offensive rebound by Team
+11:45.0, , ,19-39, ,M. Oni misses 3-pt jump shot from 25 ft
+11:41.0,Defensive rebound by D. Melton, ,19-39, , 
+11:30.0,J. Valančiūnas makes 2-pt hook shot from 5 ft,+2,21-39, , 
+11:14.0, , ,21-39, ,Turnover by J. Clarkson (bad pass; steal by T. Jones)
+11:07.0,D. Brooks makes 2-pt layup from 2 ft (assist by T. Jones),+2,23-39, , 
+10:49.0, , ,23-39, ,R. Gobert misses 2-pt dunk from 3 ft
+10:46.0, , ,23-39, ,Offensive rebound by R. Gobert
+10:39.0, , ,23-39, ,M. Oni misses 3-pt jump shot from 22 ft
+10:36.0,Defensive rebound by D. Bane, ,23-39, , 
+10:35.0,Personal foul by G. Niang (drawn by D. Melton), ,23-39, , 
+10:22.0,D. Brooks makes 2-pt jump shot from 12 ft,+2,25-39, , 
+10:05.0, , ,25-39, ,J. Ingles misses 3-pt jump shot from 24 ft
+10:02.0,Defensive rebound by T. Jones, ,25-39, , 
+9:47.0,Turnover by J. Valančiūnas (lost ball; steal by M. Oni), ,25-39, , 
+9:39.0, , ,25-39, ,Turnover by J. Ingles (bad pass; steal by D. Brooks)
+9:35.0,Shooting foul by M. Oni (drawn by D. Brooks), ,25-39, , 
+9:35.0,D. Brooks makes free throw 1 of 2,+1,26-39, , 
+9:35.0,D. Brooks makes free throw 2 of 2,+1,27-39, , 
+9:24.0, , ,27-39, ,G. Niang misses 2-pt layup from 2 ft (block by J. Valančiūnas)
+9:21.0,Defensive rebound by J. Valančiūnas, ,27-39, , 
+9:15.0,J. Valančiūnas misses 3-pt jump shot from 26 ft, ,27-39, , 
+9:12.0, , ,27-39, ,Defensive rebound by J. Clarkson
+9:02.0, , ,27-41,+2,J. Clarkson makes 2-pt jump shot from 6 ft
+8:47.0,D. Bane makes 2-pt jump shot from 8 ft (assist by T. Jones),+2,29-41, , 
+8:31.0, , ,29-41, ,G. Niang misses 3-pt jump shot from 25 ft
+8:29.0,Defensive rebound by J. Valančiūnas, ,29-41, , 
+8:27.0,Personal foul by J. Clarkson (drawn by D. Brooks), ,29-41, , 
+8:27.0, , ,29-41, ,D. Mitchell enters the game for M. Oni
+8:16.0,D. Brooks misses 2-pt jump shot from 15 ft, ,29-41, , 
+8:14.0,Offensive rebound by J. Valančiūnas, ,29-41, , 
+8:12.0,J. Valančiūnas misses 2-pt hook shot from 6 ft, ,29-41, , 
+8:12.0, , ,29-41, ,Defensive rebound by J. Clarkson
+8:02.0, , ,29-43,+2,J. Clarkson makes 2-pt jump shot from 5 ft
+7:47.0,D. Melton makes 2-pt jump shot from 9 ft,+2,31-43, , 
+7:47.0, , ,31-43, ,Utah full timeout
+7:47.0,G. Allen enters the game for D. Melton, ,31-43, , 
+7:47.0, , ,31-43, ,B. Bogdanović enters the game for R. Gobert
+7:47.0, , ,31-43, ,D. Favors enters the game for G. Niang
+7:38.0, , ,31-43, ,D. Mitchell misses 3-pt jump shot from 26 ft
+7:35.0, , ,31-43, ,Offensive rebound by J. Ingles
+7:34.0, , ,31-45,+2,J. Ingles makes 2-pt layup from 3 ft
+7:13.0,D. Bane misses 2-pt jump shot from 15 ft, ,31-45, , 
+7:10.0,Offensive rebound by J. Valančiūnas, ,31-45, , 
+7:07.0,D. Brooks misses 2-pt jump shot from 16 ft, ,31-45, , 
+7:04.0,Offensive rebound by D. Brooks, ,31-45, , 
+7:03.0,D. Brooks misses 2-pt jump shot from 5 ft (block by D. Favors), ,31-45, , 
+7:03.0,Offensive rebound by J. Valančiūnas, ,31-45, , 
+7:00.0,J. Valančiūnas makes 2-pt layup from 1 ft,+2,33-45, , 
+6:48.0, , ,33-45, ,D. Favors misses 2-pt layup from 4 ft
+6:48.0, , ,33-45, ,Offensive rebound by D. Favors
+6:47.0, , ,33-45, ,B. Bogdanović misses 3-pt jump shot from 26 ft
+6:43.0,Defensive rebound by J. Valančiūnas, ,33-45, , 
+6:34.0,D. Brooks makes 3-pt jump shot from 28 ft (assist by J. Valančiūnas),+3,36-45, , 
+6:21.0, , ,36-48,+3,J. Clarkson makes 3-pt jump shot from 25 ft (assist by D. Mitchell)
+6:12.0,D. Brooks misses 3-pt jump shot from 25 ft, ,36-48, , 
+6:09.0, , ,36-48, ,Defensive rebound by B. Bogdanović
+5:55.0, , ,36-48, ,Turnover by J. Ingles (bad pass; steal by G. Allen)
+5:53.0,G. Allen makes 2-pt dunk from 2 ft,+2,38-48, , 
+5:43.0, , ,38-50,+2,D. Mitchell makes 2-pt layup from 3 ft
+5:34.0,Shooting foul by D. Favors (drawn by G. Allen), ,38-50, , 
+5:34.0,G. Allen makes free throw 1 of 2,+1,39-50, , 
+5:34.0,K. Anderson enters the game for D. Bane, ,39-50, , 
+5:34.0,B. Clarke enters the game for T. Jones, ,39-50, , 
+5:34.0,J. Morant enters the game for J. Valančiūnas, ,39-50, , 
+5:34.0, , ,39-50, ,R. O'Neale enters the game for J. Ingles
+5:34.0,G. Allen makes free throw 2 of 2,+1,40-50, , 
+5:20.0, , ,40-52,+2,D. Mitchell makes 2-pt jump shot from 7 ft
+5:10.0,G. Allen misses 3-pt jump shot from 25 ft, ,40-52, , 
+5:06.0, , ,40-52, ,Defensive rebound by D. Favors
+5:02.0, , ,40-55,+3,D. Mitchell makes 3-pt jump shot from 26 ft
+5:00.0,Memphis full timeout, ,40-55, , 
+4:45.0,Turnover by J. Morant (bad pass; steal by R. O'Neale), ,40-55, , 
+4:35.0, , ,40-58,+3,J. Clarkson makes 3-pt jump shot from 23 ft (assist by D. Mitchell)
+4:21.0,Personal foul by R. O'Neale (drawn by J. Morant), ,40-58, , 
+4:21.0,J. Morant makes free throw 1 of 2,+1,41-58, , 
+4:21.0,J. Morant makes free throw 2 of 2,+1,42-58, , 
+4:03.0, , ,42-61,+3,J. Clarkson makes 3-pt jump shot from 25 ft (assist by D. Mitchell)
+3:53.0,D. Brooks misses 3-pt jump shot from 25 ft, ,42-61, , 
+3:49.0, , ,42-61, ,Defensive rebound by R. O'Neale
+3:43.0, , ,42-63,+2,D. Favors makes 2-pt dunk from 2 ft (assist by J. Clarkson)
+3:43.0,Memphis full timeout, ,42-63, , 
+3:34.0,J. Morant makes 2-pt layup from 3 ft (assist by K. Anderson),+2,44-63, , 
+3:22.0, , ,44-63, ,Turnover by D. Favors (bad pass)
+3:06.0,J. Morant misses 2-pt jump shot from 10 ft (block by D. Favors), ,44-63, , 
+3:03.0, , ,44-63, ,Defensive rebound by B. Bogdanović
+3:02.0, , ,44-63, ,J. Clarkson misses 3-pt jump shot from 23 ft
+2:58.0,Defensive rebound by K. Anderson, ,44-63, , 
+2:58.0, , ,44-63, ,R. Gobert enters the game for J. Clarkson
+2:58.0, , ,44-63, ,J. Ingles enters the game for D. Favors
+2:46.0,B. Clarke makes 2-pt jump shot from 9 ft (assist by K. Anderson),+2,46-63, , 
+2:35.0, , ,46-65,+2,R. Gobert makes 2-pt dunk from 3 ft (assist by D. Mitchell)
+2:35.0, , ,46-65, ,Shooting foul by G. Allen (drawn by R. Gobert)
+2:35.0, , ,46-65, ,R. Gobert misses free throw 1 of 1
+2:34.0,Defensive rebound by B. Clarke, ,46-65, , 
+2:13.0,B. Clarke makes 2-pt jump shot from 9 ft (assist by K. Anderson),+2,48-65, , 
+2:03.0, , ,48-65, ,Turnover by D. Mitchell (bad pass; steal by B. Clarke)
+1:57.0,G. Allen misses 2-pt layup from 6 ft (block by D. Mitchell), ,48-65, , 
+1:54.0, , ,48-65, ,Defensive rebound by R. O'Neale
+1:54.0, , ,48-65, ,Personal foul by D. Brooks (drawn by R. Gobert)
+1:54.0,J. Valančiūnas enters the game for D. Brooks, ,48-65, , 
+1:39.0, , ,48-65, ,B. Bogdanović misses 2-pt jump shot from 9 ft
+1:37.0,Defensive rebound by Team, ,48-65, , 
+1:18.0,J. Morant makes 2-pt jump shot from 10 ft,+2,50-65, , 
+1:01.0, , ,50-67,+2,D. Mitchell makes 2-pt jump shot from 10 ft
+0:42.0,J. Valančiūnas misses 2-pt jump shot from 5 ft (block by R. Gobert), ,50-67, , 
+0:40.0,Offensive rebound by J. Valančiūnas, ,50-67, , 
+0:37.0,K. Anderson makes 3-pt jump shot from 26 ft (assist by G. Allen),+3,53-67, , 
+0:30.0, , ,53-67, ,J. Ingles misses 3-pt jump shot from 25 ft
+0:27.0,Defensive rebound by Team, ,53-67, , 
+0:09.0,G. Allen misses 3-pt jump shot from 26 ft, ,53-67, , 
+0:06.0, , ,53-67, ,Defensive rebound by R. O'Neale
+0:01.0, , ,53-70,+3,D. Mitchell makes 3-pt jump shot from 29 ft
+11:40.0, , ,53-73,+3,J. Ingles makes 3-pt jump shot from 25 ft (assist by D. Mitchell)
+11:26.0,D. Brooks misses 2-pt jump shot from 16 ft, ,53-73, , 
+11:23.0, , ,53-73, ,Defensive rebound by R. Gobert
+11:16.0, , ,53-73, ,Turnover by D. Mitchell (out of bounds lost ball)
+11:04.0,J. Valančiūnas makes 2-pt hook shot from 9 ft (assist by J. Morant),+2,55-73, , 
+10:50.0, , ,55-73, ,Shooting foul by J. Valančiūnas (drawn by R. Gobert)
+10:50.0, , ,55-73, ,R. Gobert misses free throw 1 of 2
+10:50.0, , ,55-73, ,Offensive rebound by Team
+10:50.0, , ,55-74,+1,R. Gobert makes free throw 2 of 2
+10:41.0,J. Morant makes 3-pt jump shot from 24 ft,+3,58-74, , 
+10:26.0, , ,58-77,+3,D. Mitchell makes 3-pt jump shot from 28 ft (assist by J. Ingles)
+10:16.0,J. Morant misses 3-pt jump shot from 25 ft, ,58-77, , 
+10:14.0, , ,58-77, ,Defensive rebound by R. Gobert
+10:04.0, , ,58-77, ,Shooting foul by J. Valančiūnas (drawn by R. Gobert)
+10:04.0, , ,58-77, ,R. Gobert misses free throw 1 of 2
+10:04.0, , ,58-77, ,Offensive rebound by Team
+10:04.0, , ,58-78,+1,R. Gobert makes free throw 2 of 2
+9:51.0,Turnover by G. Allen (bad pass), ,58-78, , 
+9:38.0, , ,58-78, ,Shooting foul by G. Allen (drawn by J. Ingles)
+9:38.0, , ,58-79,+1,J. Ingles makes free throw 1 of 2
+9:38.0,Memphis full timeout, ,58-79, , 
+9:38.0, , ,58-80,+1,J. Ingles makes free throw 2 of 2
+9:27.0,J. Morant misses 3-pt jump shot from 25 ft, ,58-80, , 
+9:23.0, , ,58-80, ,Defensive rebound by R. Gobert
+9:14.0, , ,58-80, ,D. Mitchell misses 2-pt jump shot from 5 ft
+9:10.0,Defensive rebound by J. Valančiūnas, ,58-80, , 
+9:02.0,D. Brooks makes 2-pt jump shot from 13 ft (assist by J. Morant),+2,60-80, , 
+8:46.0, , ,60-82,+2,R. O'Neale makes 2-pt layup from 3 ft (assist by J. Ingles)
+8:30.0,J. Valančiūnas misses 2-pt layup from 1 ft (block by R. O'Neale), ,60-82, , 
+8:27.0, , ,60-82, ,Defensive rebound by R. O'Neale
+8:15.0, , ,60-85,+3,R. O'Neale makes 3-pt jump shot from 28 ft (assist by D. Mitchell)
+8:00.0,D. Brooks misses 2-pt jump shot from 15 ft, ,60-85, , 
+7:57.0, , ,60-85, ,Defensive rebound by B. Bogdanović
+7:51.0, , ,60-88,+3,R. O'Neale makes 3-pt jump shot from 26 ft (assist by B. Bogdanović)
+7:49.0,Memphis full timeout, ,60-88, , 
+7:38.0,K. Anderson misses 2-pt layup from 4 ft, ,60-88, , 
+7:36.0, , ,60-88, ,Defensive rebound by B. Bogdanović
+7:31.0, , ,60-88, ,B. Bogdanović misses 2-pt layup from 4 ft
+7:31.0, , ,60-88, ,Offensive rebound by R. Gobert
+7:30.0, , ,60-90,+2,R. Gobert makes 2-pt layup from 2 ft
+7:20.0,K. Anderson makes 3-pt jump shot from 25 ft (assist by G. Allen),+3,63-90, , 
+7:02.0, , ,63-90, ,Turnover by B. Bogdanović (lost ball; steal by G. Allen)
+6:59.0,Personal take foul by D. Mitchell (drawn by G. Allen), ,63-90, , 
+6:59.0, , ,63-90, ,J. Clarkson enters the game for R. Gobert
+6:59.0, , ,63-90, ,D. Favors enters the game for J. Ingles
+6:38.0,J. Morant misses 2-pt jump shot from 9 ft (block by D. Favors), ,63-90, , 
+6:38.0,Offensive rebound by J. Valančiūnas, ,63-90, , 
+6:38.0,J. Valančiūnas makes 2-pt layup from 2 ft,+2,65-90, , 
+6:38.0,Shooting foul by D. Favors (drawn by J. Valančiūnas), ,65-90, , 
+6:38.0,J. Valančiūnas makes free throw 1 of 1,+1,66-90, , 
+6:28.0, , ,66-90, ,Turnover by D. Mitchell (lost ball; steal by G. Allen)
+6:19.0,Shooting foul by J. Clarkson (drawn by K. Anderson), ,66-90, , 
+6:19.0,K. Anderson misses free throw 1 of 2, ,66-90, , 
+6:19.0,Offensive rebound by Team, ,66-90, , 
+6:19.0,K. Anderson makes free throw 2 of 2,+1,67-90, , 
+6:07.0, , ,67-90, ,Shooting foul by J. Morant (drawn by D. Mitchell)
+6:07.0, , ,67-91,+1,D. Mitchell makes free throw 1 of 2
+6:07.0,B. Clarke enters the game for J. Valančiūnas, ,67-91, , 
+6:07.0, , ,67-92,+1,D. Mitchell makes free throw 2 of 2
+5:53.0,B. Clarke misses 2-pt jump shot from 8 ft (block by D. Favors), ,67-92, , 
+5:49.0, , ,67-92, ,Defensive rebound by J. Clarkson
+5:48.0, , ,67-94,+2,R. O'Neale makes 2-pt dunk from 2 ft (assist by J. Clarkson)
+5:36.0,Turnover by J. Morant (lost ball; steal by J. Clarkson), ,67-94, , 
+5:16.0, , ,67-96,+2,D. Mitchell makes 2-pt jump shot from 11 ft
+5:07.0,K. Anderson makes 2-pt jump shot from 10 ft,+2,69-96, , 
+5:07.0,Shooting foul by B. Bogdanović (drawn by K. Anderson), ,69-96, , 
+5:07.0,D. Bane enters the game for G. Allen, ,69-96, , 
+5:07.0,J. Winslow enters the game for D. Brooks, ,69-96, , 
+5:07.0,K. Anderson makes free throw 1 of 1,+1,70-96, , 
+4:57.0, , ,70-96, ,Personal foul by B. Clarke (drawn by D. Favors)
+4:57.0, , ,70-96, ,D. Favors misses free throw 1 of 2
+4:57.0, , ,70-96, ,Offensive rebound by Team
+4:57.0,D. Melton enters the game for K. Anderson, ,70-96, , 
+4:57.0, , ,70-96, ,D. Favors misses free throw 2 of 2
+4:55.0,Defensive rebound by J. Winslow, ,70-96, , 
+4:41.0,D. Bane misses 2-pt jump shot from 12 ft, ,70-96, , 
+4:37.0, , ,70-96, ,Defensive rebound by D. Favors
+4:27.0, , ,70-98,+2,J. Clarkson makes 2-pt jump shot from 9 ft
+4:19.0,D. Melton makes 2-pt jump shot from 12 ft (assist by B. Clarke),+2,72-98, , 
+4:07.0, , ,72-98, ,Turnover by D. Favors (bad pass; steal by J. Winslow)
+4:03.0,D. Bane makes 2-pt layup from 2 ft (assist by D. Melton),+2,74-98, , 
+4:03.0, , ,74-98, ,Utah full timeout
+4:03.0, , ,74-98, ,G. Niang enters the game for B. Bogdanović
+3:47.0, , ,74-98, ,D. Favors misses 2-pt jump shot from 16 ft
+3:44.0, , ,74-98, ,Offensive rebound by R. O'Neale
+3:44.0, , ,74-98, ,Turnover by R. O'Neale (bad pass)
+3:34.0,J. Winslow misses 3-pt jump shot from 24 ft, ,74-98, , 
+3:30.0, , ,74-98, ,Defensive rebound by D. Mitchell
+3:29.0, , ,74-98, ,Turnover by D. Mitchell (lost ball; steal by J. Winslow)
+3:24.0,D. Bane makes 3-pt jump shot from 25 ft (assist by D. Melton),+3,77-98, , 
+2:54.0, , ,77-98, ,Turnover by Team (shot clock)
+2:54.0, , ,77-98, ,R. Gobert enters the game for D. Favors
+2:54.0, , ,77-98, ,J. Ingles enters the game for D. Mitchell
+2:39.0,B. Clarke makes 2-pt jump shot from 2 ft (assist by J. Winslow),+2,79-98, , 
+2:24.0, , ,79-100,+2,J. Clarkson makes 2-pt jump shot from 10 ft
+2:09.0,D. Bane misses 2-pt layup from 3 ft, ,79-100, , 
+2:06.0, , ,79-100, ,Defensive rebound by R. Gobert
+1:59.0, , ,79-100, ,J. Clarkson misses 2-pt jump shot from 9 ft
+1:55.0,Defensive rebound by D. Bane, ,79-100, , 
+1:53.0,Turnover by D. Bane (lost ball; steal by R. O'Neale), ,79-100, , 
+1:46.0, , ,79-100, ,J. Clarkson misses 3-pt jump shot from 23 ft
+1:41.0,Defensive rebound by B. Clarke, ,79-100, , 
+1:40.0,Turnover by J. Morant (out of bounds lost ball), ,79-100, , 
+1:28.0, , ,79-100, ,G. Niang misses 3-pt jump shot from 26 ft
+1:23.0,Defensive rebound by B. Clarke, ,79-100, , 
+1:19.0,B. Clarke misses 3-pt jump shot from 24 ft, ,79-100, , 
+1:16.0, , ,79-100, ,Defensive rebound by J. Clarkson
+1:10.0, , ,79-100, ,J. Clarkson misses 3-pt jump shot from 25 ft
+1:07.0,Defensive rebound by B. Clarke, ,79-100, , 
+0:55.0,B. Clarke misses 2-pt jump shot from 14 ft, ,79-100, , 
+0:53.0,Offensive rebound by J. Morant, ,79-100, , 
+0:53.0,Personal foul by J. Clarkson (drawn by J. Morant), ,79-100, , 
+0:53.0,J. Morant misses free throw 1 of 2, ,79-100, , 
+0:53.0,Offensive rebound by Team, ,79-100, , 
+0:53.0,J. Morant makes free throw 2 of 2,+1,80-100, , 
+0:40.0, , ,80-100, ,Turnover by J. Ingles (bad pass; steal by B. Clarke)
+0:36.0,J. Morant makes 2-pt dunk from 2 ft (assist by D. Melton),+2,82-100, , 
+0:33.0, , ,82-100, ,J. Clarkson misses 3-pt jump shot from 26 ft
+0:33.0,Defensive rebound by D. Bane, ,82-100, , 
+0:13.0,J. Winslow misses 2-pt hook shot from 3 ft, ,82-100, , 
+0:12.0, , ,82-100, ,Defensive rebound by J. Ingles
+0:00.0, , ,82-100, ,J. Clarkson misses 2-pt jump shot from 9 ft
+0:00.0, , ,82-100, ,Offensive rebound by Team
+11:42.0,Turnover by D. Bane (lost ball; steal by J. Ingles), ,82-100, , 
+11:40.0,Technical foul by T. Jenkins, ,82-100, , 
+11:40.0, , ,82-101,+1,J. Clarkson makes technical free throw
+11:28.0, , ,82-104,+3,J. Ingles makes 3-pt jump shot from 23 ft (assist by M. Oni)
+11:11.0,B. Clarke makes 2-pt jump shot from 7 ft (assist by D. Bane),+2,84-104, , 
+10:57.0, , ,84-107,+3,G. Niang makes 3-pt jump shot from 26 ft (assist by J. Ingles)
+10:43.0,D. Melton makes 3-pt jump shot from 24 ft (assist by B. Clarke),+3,87-107, , 
+10:27.0, , ,87-107, ,G. Niang misses 3-pt jump shot from 26 ft
+10:25.0, , ,87-107, ,Offensive rebound by R. Gobert
+10:24.0, , ,87-109,+2,R. Gobert makes 2-pt layup from 2 ft
+10:12.0,Shooting foul by R. Gobert (drawn by B. Clarke), ,87-109, , 
+10:12.0,B. Clarke misses free throw 1 of 2, ,87-109, , 
+10:12.0,Offensive rebound by Team, ,87-109, , 
+10:12.0,B. Clarke misses free throw 2 of 2, ,87-109, , 
+10:10.0, , ,87-109, ,Defensive rebound by G. Niang
+9:57.0, , ,87-112,+3,G. Niang makes 3-pt jump shot from 26 ft (assist by J. Ingles)
+9:38.0,Shooting foul by M. Oni (drawn by B. Clarke), ,87-112, , 
+9:38.0,B. Clarke makes free throw 1 of 2,+1,88-112, , 
+9:38.0,B. Clarke makes free throw 2 of 2,+1,89-112, , 
+9:22.0, , ,89-112, ,J. Ingles misses 2-pt layup from 3 ft
+9:19.0, , ,89-112, ,Offensive rebound by R. Gobert
+9:19.0, , ,89-112, ,R. Gobert misses 2-pt layup from 2 ft
+9:19.0, , ,89-112, ,Offensive rebound by R. Gobert
+9:19.0, , ,89-114,+2,R. Gobert makes 2-pt dunk at rim
+9:19.0, , ,89-114, ,Technical foul by R. Gobert
+9:19.0,D. Bane misses technical free throw, ,89-114, , 
+9:19.0,Offensive rebound by Team, ,89-114, , 
+9:07.0,J. Winslow misses 2-pt jump shot from 20 ft, ,89-114, , 
+9:04.0, , ,89-114, ,Defensive rebound by J. Clarkson
+9:00.0, , ,89-114, ,Personal foul by J. Winslow (drawn by J. Clarkson)
+8:46.0, , ,89-117,+3,J. Clarkson makes 3-pt jump shot from 26 ft (assist by J. Ingles)
+8:26.0,J. Winslow misses 3-pt jump shot from 25 ft, ,89-117, , 
+8:22.0, , ,89-117, ,Defensive rebound by M. Oni
+8:16.0, , ,89-117, ,J. Clarkson misses 3-pt jump shot from 23 ft
+8:12.0,Defensive rebound by T. Jones, ,89-117, , 
+8:12.0,Personal take foul by J. Ingles (drawn by T. Jones), ,89-117, , 
+8:12.0, , ,89-117, ,B. Bogdanović enters the game for R. Gobert
+8:12.0, , ,89-117, ,D. Favors enters the game for G. Niang
+8:12.0, , ,89-117, ,D. Mitchell enters the game for M. Oni
+8:03.0,T. Jones misses 2-pt jump shot from 11 ft, ,89-117, , 
+8:00.0,Offensive rebound by Team, ,89-117, , 
+8:00.0, , ,89-117, ,M. Oni enters the game for J. Ingles
+7:54.0,Shooting foul by M. Oni (drawn by D. Melton), ,89-117, , 
+7:54.0,D. Melton makes free throw 1 of 2,+1,90-117, , 
+7:54.0,D. Melton makes free throw 2 of 2,+1,91-117, , 
+7:39.0, , ,91-117, ,J. Clarkson misses 3-pt jump shot from 24 ft
+7:36.0,Defensive rebound by D. Bane, ,91-117, , 
+7:23.0,D. Melton makes 3-pt jump shot from 24 ft,+3,94-117, , 
+7:12.0, , ,94-117, ,D. Mitchell misses 2-pt jump shot from 9 ft
+7:09.0, , ,94-117, ,Offensive rebound by D. Mitchell
+7:07.0, , ,94-117, ,D. Mitchell misses 2-pt layup from 5 ft
+7:06.0, , ,94-117, ,Offensive rebound by D. Favors
+7:03.0, , ,94-117, ,Turnover by D. Favors (bad pass)
+7:03.0, , ,94-117, ,R. O'Neale enters the game for M. Oni
+6:54.0,D. Bane misses 2-pt jump shot from 8 ft, ,94-117, , 
+6:51.0, , ,94-117, ,Defensive rebound by D. Favors
+6:33.0, , ,94-120,+3,B. Bogdanović makes 3-pt jump shot from 26 ft (assist by J. Clarkson)
+6:32.0,Memphis full timeout, ,94-120, , 
+6:32.0,J. Konchar enters the game for D. Bane, ,94-120, , 
+6:32.0,S. McDermott enters the game for B. Clarke, ,94-120, , 
+6:32.0,J. Porter enters the game for T. Jones, ,94-120, , 
+6:32.0,K. Tillie enters the game for D. Melton, ,94-120, , 
+6:32.0,X. Tillman enters the game for J. Winslow, ,94-120, , 
+6:32.0, , ,94-120, ,T. Forrest enters the game for J. Clarkson
+6:32.0, , ,94-120, ,E. İlyasova enters the game for D. Favors
+6:32.0, , ,94-120, ,M. Oni enters the game for D. Mitchell
+6:32.0, , ,94-120, ,M. Thomas enters the game for R. O'Neale
+6:18.0,K. Tillie misses 3-pt jump shot from 23 ft, ,94-120, , 
+6:14.0, , ,94-120, ,Defensive rebound by M. Oni
+6:00.0, , ,94-120, ,M. Oni misses 3-pt jump shot from 23 ft
+5:57.0,Defensive rebound by K. Tillie, ,94-120, , 
+5:45.0,Personal foul by E. İlyasova (drawn by X. Tillman), ,94-120, , 
+5:45.0,X. Tillman misses free throw 1 of 2, ,94-120, , 
+5:45.0,Offensive rebound by Team, ,94-120, , 
+5:45.0, , ,94-120, ,J. Morgan enters the game for B. Bogdanović
+5:45.0,X. Tillman makes free throw 2 of 2,+1,95-120, , 
+5:32.0, , ,95-120, ,Turnover by M. Thomas (bad pass; steal by J. Porter)
+5:29.0,Shooting foul by J. Morgan (drawn by J. Konchar), ,95-120, , 
+5:29.0,J. Konchar makes free throw 1 of 2,+1,96-120, , 
+5:29.0,J. Konchar misses free throw 2 of 2, ,96-120, , 
+5:25.0,Offensive rebound by X. Tillman, ,96-120, , 
+5:13.0,K. Tillie misses 3-pt jump shot from 29 ft, ,96-120, , 
+5:12.0,Offensive rebound by S. McDermott, ,96-120, , 
+5:12.0,Turnover by Team (shot clock), ,96-120, , 
+5:00.0, , ,96-120, ,J. Morgan misses 3-pt jump shot from 26 ft
+4:57.0,Defensive rebound by J. Porter, ,96-120, , 
+4:48.0,S. McDermott misses 3-pt jump shot from 25 ft, ,96-120, , 
+4:45.0,Offensive rebound by J. Konchar, ,96-120, , 
+4:43.0,J. Konchar makes 2-pt jump shot from 14 ft,+2,98-120, , 
+4:35.0,Violation by Team (kicked ball), ,98-120, , 
+4:28.0, , ,98-122,+2,T. Forrest makes 2-pt layup from 6 ft
+4:18.0,J. Porter makes 3-pt jump shot from 28 ft (assist by J. Konchar),+3,101-122, , 
+3:53.0, , ,101-122, ,E. İlyasova misses 3-pt jump shot from 25 ft
+3:50.0,Defensive rebound by S. McDermott, ,101-122, , 
+3:44.0,Shooting foul by E. İlyasova (drawn by S. McDermott), ,101-122, , 
+3:44.0,S. McDermott makes free throw 1 of 2,+1,102-122, , 
+3:44.0,S. McDermott makes free throw 2 of 2,+1,103-122, , 
+3:32.0, , ,103-122, ,M. Oni misses 3-pt jump shot from 27 ft
+3:28.0, , ,103-122, ,Offensive rebound by M. Thomas
+3:27.0, , ,103-122, ,M. Thomas misses 2-pt jump shot from 14 ft
+3:24.0,Defensive rebound by S. McDermott, ,103-122, , 
+3:14.0,Turnover by J. Porter (bad pass), ,103-122, , 
+2:59.0, , ,103-122, ,Turnover by M. Thomas (bad pass; steal by K. Tillie)
+2:54.0,S. McDermott misses 3-pt jump shot from 24 ft, ,103-122, , 
+2:51.0,Offensive rebound by J. Porter, ,103-122, , 
+2:49.0,J. Porter makes 2-pt jump shot from 20 ft,+2,105-122, , 
+2:33.0, , ,105-124,+2,T. Forrest makes 2-pt jump shot from 11 ft
+2:20.0,K. Tillie misses 3-pt jump shot from 25 ft, ,105-124, , 
+2:18.0, , ,105-124, ,Defensive rebound by T. Forrest
+2:10.0, , ,105-124, ,Turnover by M. Thomas (traveling)
+2:10.0, , ,105-124, ,Utah full timeout
+2:10.0, , ,105-124, ,J. Brantley enters the game for E. İlyasova
+2:10.0, , ,105-124, ,E. Hughes enters the game for M. Oni
+1:48.0,Turnover by J. Porter (bad pass; steal by J. Brantley), ,105-124, , 
+1:45.0, , ,105-126,+2,J. Brantley makes 2-pt layup from 6 ft
+1:32.0,S. McDermott makes 2-pt layup from 4 ft,+2,107-126, , 
+1:21.0, , ,107-126, ,M. Thomas misses 3-pt jump shot from 28 ft
+1:19.0,Defensive rebound by J. Porter, ,107-126, , 
+1:09.0,J. Konchar misses 2-pt jump shot from 9 ft, ,107-126, , 
+1:08.0,Offensive rebound by J. Konchar, ,107-126, , 
+1:05.0,X. Tillman misses 3-pt jump shot from 25 ft, ,107-126, , 
+1:03.0, , ,107-126, ,Defensive rebound by Team
+0:53.0, , ,107-126, ,Turnover by T. Forrest (bad pass; steal by J. Porter)
+0:50.0,K. Tillie makes 2-pt layup from 2 ft (assist by J. Porter),+2,109-126, , 
+0:50.0,Shooting foul by J. Brantley (drawn by K. Tillie), ,109-126, , 
+0:50.0,K. Tillie makes free throw 1 of 1,+1,110-126, , 
+0:34.0, , ,110-126, ,T. Forrest misses 2-pt jump shot from 7 ft
+0:32.0, , ,110-126, ,Offensive rebound by J. Morgan
+0:21.0, , ,110-126, ,M. Thomas misses 3-pt jump shot from 23 ft
+0:18.0,Defensive rebound by J. Porter, ,110-126, , 
+0:03.0,K. Tillie misses 3-pt jump shot from 25 ft, ,110-126, , 
+0:03.0,Offensive rebound by J. Konchar, ,110-126, , 
+0:00.0,J. Konchar misses 2-pt layup at rim, ,110-126, , 
+0:00.0,Offensive rebound by Team, ,110-126, , 

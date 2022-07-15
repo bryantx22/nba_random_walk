@@ -1,0 +1,44 @@
+index,Date,Start (ET),Visitor/Neutral,PTS,Home/Neutral,PTS.1,Unnamed: 6,Unnamed: 7,Attend.,Arena,Notes,home_abb,away_abb,url
+86,16,1:00p,Utah Jazz,99,Dallas Mavericks,93,Box Score,,"20,013",American Airlines Center,,DAL,UTA,https://www.basketball-reference.com/boxscores/shot-chart/202204160DAL.html
+87,16,3:30p,Minnesota Timberwolves,130,Memphis Grizzlies,117,Box Score,,"17,794",FedEx Forum,,MEM,MIN,https://www.basketball-reference.com/boxscores/shot-chart/202204160MEM.html
+88,16,6:00p,Toronto Raptors,111,Philadelphia 76ers,131,Box Score,,"20,610",Wells Fargo Center,,PHI,TOR,https://www.basketball-reference.com/boxscores/shot-chart/202204160PHI.html
+89,16,8:30p,Denver Nuggets,107,Golden State Warriors,123,Box Score,,"18,064",Chase Center,,GSW,DEN,https://www.basketball-reference.com/boxscores/shot-chart/202204160GSW.html
+90,17,1:00p,Atlanta Hawks,91,Miami Heat,115,Box Score,,"19,514",FTX Arena,,MIA,ATL,https://www.basketball-reference.com/boxscores/shot-chart/202204170MIA.html
+91,17,3:30p,Brooklyn Nets,114,Boston Celtics,115,Box Score,,"19,156",TD Garden,,BOS,BRK,https://www.basketball-reference.com/boxscores/shot-chart/202204170BOS.html
+92,17,6:30p,Chicago Bulls,86,Milwaukee Bucks,93,Box Score,,"17,717",Fiserv Forum,,MIL,CHI,https://www.basketball-reference.com/boxscores/shot-chart/202204170MIL.html
+93,17,9:00p,New Orleans Pelicans,99,Phoenix Suns,110,Box Score,,"17,071",Phoenix Suns Arena,,PHO,NOP,https://www.basketball-reference.com/boxscores/shot-chart/202204170PHO.html
+94,18,7:30p,Toronto Raptors,97,Philadelphia 76ers,112,Box Score,,"20,974",Wells Fargo Center,,PHI,TOR,https://www.basketball-reference.com/boxscores/shot-chart/202204180PHI.html
+95,18,8:30p,Utah Jazz,104,Dallas Mavericks,110,Box Score,,"20,113",American Airlines Center,,DAL,UTA,https://www.basketball-reference.com/boxscores/shot-chart/202204180DAL.html
+96,18,10:00p,Denver Nuggets,106,Golden State Warriors,126,Box Score,,"18,064",Chase Center,,GSW,DEN,https://www.basketball-reference.com/boxscores/shot-chart/202204180GSW.html
+97,19,7:30p,Atlanta Hawks,105,Miami Heat,115,Box Score,,"19,950",FTX Arena,,MIA,ATL,https://www.basketball-reference.com/boxscores/shot-chart/202204190MIA.html
+98,19,8:30p,Minnesota Timberwolves,96,Memphis Grizzlies,124,Box Score,,"17,794",FedEx Forum,,MEM,MIN,https://www.basketball-reference.com/boxscores/shot-chart/202204190MEM.html
+99,19,10:00p,New Orleans Pelicans,125,Phoenix Suns,114,Box Score,,"17,071",Phoenix Suns Arena,,PHO,NOP,https://www.basketball-reference.com/boxscores/shot-chart/202204190PHO.html
+100,20,7:00p,Brooklyn Nets,107,Boston Celtics,114,Box Score,,"19,156",TD Garden,,BOS,BRK,https://www.basketball-reference.com/boxscores/shot-chart/202204200BOS.html
+101,20,8:00p,Philadelphia 76ers,104,Toronto Raptors,101,Box Score,OT,"19,800",Scotiabank Arena,,TOR,PHI,https://www.basketball-reference.com/boxscores/shot-chart/202204200TOR.html
+102,20,9:30p,Chicago Bulls,114,Milwaukee Bucks,110,Box Score,,"17,688",Fiserv Forum,,MIL,CHI,https://www.basketball-reference.com/boxscores/shot-chart/202204200MIL.html
+103,21,7:30p,Memphis Grizzlies,104,Minnesota Timberwolves,95,Box Score,,"19,634",Target Center,,MIN,MEM,https://www.basketball-reference.com/boxscores/shot-chart/202204210MIN.html
+104,21,9:00p,Dallas Mavericks,126,Utah Jazz,118,Box Score,,"18,306",Vivint Smart Home Arena,,UTA,DAL,https://www.basketball-reference.com/boxscores/shot-chart/202204210UTA.html
+105,21,10:00p,Golden State Warriors,118,Denver Nuggets,113,Box Score,,"19,627",Ball Arena,,DEN,GSW,https://www.basketball-reference.com/boxscores/shot-chart/202204210DEN.html
+106,22,7:45p,Miami Heat,110,Atlanta Hawks,111,Box Score,,"18,421",State Farm Arena,,ATL,MIA,https://www.basketball-reference.com/boxscores/shot-chart/202204220ATL.html
+107,22,8:30p,Milwaukee Bucks,111,Chicago Bulls,81,Box Score,,"22,667",United Center,,CHI,MIL,https://www.basketball-reference.com/boxscores/shot-chart/202204220CHI.html
+108,22,10:00p,Phoenix Suns,114,New Orleans Pelicans,111,Box Score,,"18,962",Smoothie King Center,,NOP,PHO,https://www.basketball-reference.com/boxscores/shot-chart/202204220NOP.html
+109,23,2:00p,Philadelphia 76ers,102,Toronto Raptors,110,Box Score,,"19,800",Scotiabank Arena,,TOR,PHI,https://www.basketball-reference.com/boxscores/shot-chart/202204230TOR.html
+110,23,4:30p,Dallas Mavericks,99,Utah Jazz,100,Box Score,,"18,306",Vivint Smart Home Arena,,UTA,DAL,https://www.basketball-reference.com/boxscores/shot-chart/202204230UTA.html
+111,23,7:30p,Boston Celtics,109,Brooklyn Nets,103,Box Score,,"18,175",Barclays Center,,BRK,BOS,https://www.basketball-reference.com/boxscores/shot-chart/202204230BRK.html
+112,23,10:00p,Memphis Grizzlies,118,Minnesota Timberwolves,119,Box Score,,"19,832",Target Center,,MIN,MEM,https://www.basketball-reference.com/boxscores/shot-chart/202204230MIN.html
+113,24,1:00p,Milwaukee Bucks,119,Chicago Bulls,95,Box Score,,"22,020",United Center,,CHI,MIL,https://www.basketball-reference.com/boxscores/shot-chart/202204240CHI.html
+114,24,3:30p,Golden State Warriors,121,Denver Nuggets,126,Box Score,,"19,628",Ball Arena,,DEN,GSW,https://www.basketball-reference.com/boxscores/shot-chart/202204240DEN.html
+115,24,7:00p,Miami Heat,110,Atlanta Hawks,86,Box Score,,"18,951",State Farm Arena,,ATL,MIA,https://www.basketball-reference.com/boxscores/shot-chart/202204240ATL.html
+116,24,9:30p,Phoenix Suns,103,New Orleans Pelicans,118,Box Score,,"18,962",Smoothie King Center,,NOP,PHO,https://www.basketball-reference.com/boxscores/shot-chart/202204240NOP.html
+117,25,7:00p,Boston Celtics,116,Brooklyn Nets,112,Box Score,,"18,099",Barclays Center,,BRK,BOS,https://www.basketball-reference.com/boxscores/shot-chart/202204250BRK.html
+118,25,8:00p,Toronto Raptors,103,Philadelphia 76ers,88,Box Score,,"20,517",Wells Fargo Center,,PHI,TOR,https://www.basketball-reference.com/boxscores/shot-chart/202204250PHI.html
+119,25,9:30p,Utah Jazz,77,Dallas Mavericks,102,Box Score,,"20,577",American Airlines Center,,DAL,UTA,https://www.basketball-reference.com/boxscores/shot-chart/202204250DAL.html
+120,26,7:00p,Atlanta Hawks,94,Miami Heat,97,Box Score,,"19,553",FTX Arena,,MIA,ATL,https://www.basketball-reference.com/boxscores/shot-chart/202204260MIA.html
+121,26,7:30p,Minnesota Timberwolves,109,Memphis Grizzlies,111,Box Score,,"17,794",FedEx Forum,,MEM,MIN,https://www.basketball-reference.com/boxscores/shot-chart/202204260MEM.html
+122,26,10:00p,New Orleans Pelicans,97,Phoenix Suns,112,Box Score,,"17,071",Phoenix Suns Arena,,PHO,NOP,https://www.basketball-reference.com/boxscores/shot-chart/202204260PHO.html
+123,27,7:30p,Chicago Bulls,100,Milwaukee Bucks,116,Box Score,,"17,506",Fiserv Forum,,MIL,CHI,https://www.basketball-reference.com/boxscores/shot-chart/202204270MIL.html
+124,27,10:00p,Denver Nuggets,98,Golden State Warriors,102,Box Score,,"18,064",Chase Center,,GSW,DEN,https://www.basketball-reference.com/boxscores/shot-chart/202204270GSW.html
+125,28,7:00p,Philadelphia 76ers,132,Toronto Raptors,97,Box Score,,"19,800",Scotiabank Arena,,TOR,PHI,https://www.basketball-reference.com/boxscores/shot-chart/202204280TOR.html
+126,28,7:30p,Phoenix Suns,115,New Orleans Pelicans,109,Box Score,,"18,710",Smoothie King Center,,NOP,PHO,https://www.basketball-reference.com/boxscores/shot-chart/202204280NOP.html
+127,28,10:00p,Dallas Mavericks,98,Utah Jazz,96,Box Score,,"18,306",Vivint Smart Home Arena,,UTA,DAL,https://www.basketball-reference.com/boxscores/shot-chart/202204280UTA.html
+128,29,9:00p,Memphis Grizzlies,114,Minnesota Timberwolves,106,Box Score,,"20,323",Target Center,,MIN,MEM,https://www.basketball-reference.com/boxscores/shot-chart/202204290MIN.html

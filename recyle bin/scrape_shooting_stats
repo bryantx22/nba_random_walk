@@ -1,0 +1,84 @@
+from bs4 import BeautifulSoup
+import requests
+import pandas as pd
+
+def scrape (date, visitor, home, dest, parent_df):
+
+    url=dest
+
+    content=requests.get(url).text
+    soup = BeautifulSoup(content, "lxml")
+
+    teams=[]
+    teams.append(visitor)
+    teams.append(home)
+    game_id=[]
+    id=date+"_"+visitor+"_"+home
+    game_id.append(id)
+    game_id.append(id)
+    twopa=[]
+    twopm=[]
+    thrpa=[]
+    thrpm=[]
+
+    pbp_table = soup.find("table", attrs={"id": "shooting-"+visitor})
+    pbp_rows=pbp_table.find_all("tr")
+    elements=pbp_rows[len(pbp_rows)-1].find_all("td")
+    twopm.append (elements[3].text)
+    twopa.append (elements[4].text)
+    thrpm.append (elements[6].text)
+    thrpa.append (elements[7].text)
+
+    pbp_table = soup.find("table", attrs={"id": "shooting-"+home})
+    pbp_rows=pbp_table.find_all("tr")
+    elements=pbp_rows[len(pbp_rows)-1].find_all("td")
+    twopm.append (elements[3].text)
+    twopa.append (elements[4].text)
+    thrpm.append (elements[6].text)
+    thrpa.append (elements[7].text)
+
+    teams=pd.Series(teams)
+    game_id=pd.Series(game_id)
+    twopa=pd.Series(twopa)
+    twopm=pd.Series(twopm)
+    thrpa=pd.Series(thrpa)
+    thrpm=pd.Series(thrpm)
+    
+    data=[game_id, teams, twopm, twopa, thrpm, thrpa]
+    col_names=["game_id","team","2pt_makes","2pt_attempts","3pt_makes","3pt_attempts"]
+    df = pd.concat(data, axis=1, keys=col_names)
+    return pd.concat([parent, df], axis=0)
+
+parent = pd.DataFrame({
+    "game_id":[],
+    "team":[],
+    "2pt_makes":[],
+    "2pt_attempts":[],
+    "3pt_makes":[],
+    "3pt_attempts":[],
+})
+count=0
+
+april=pd.read_csv(r"C:\Users\Bryant Xia\Desktop\lead_change_analysis\april_processed.csv")
+for i in range(0,len(april)):
+    visitor=april['away_abb'][i]
+    home=april['home_abb'][i]
+    dest=april['url'][i]
+    date="202204"+str(april['Date'][i])
+    parent=scrape(date, visitor, home, dest, parent)
+    count+=1
+    print (count)
+
+parent.to_csv(r"C:\Users\Bryant Xia\Desktop\lead_change_analysis\april_shooting_stats.csv", index=False)
+
+april=pd.read_csv(r"C:\Users\Bryant Xia\Desktop\lead_change_analysis\may_processed.csv")
+for i in range(0,len(april)):
+    visitor=april['away_abb'][i]
+    home=april['home_abb'][i]
+    dest=april['url'][i]
+    date="202205"+str(april['Date'][i])
+    parent=scrape(date, visitor, home, dest, parent)
+    count+=1
+    print (count)
+
+parent.to_csv(r"C:\Users\Bryant Xia\Desktop\lead_change_analysis\may_shooting_stats.csv", index=False)

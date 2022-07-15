@@ -1,8 +1,11 @@
-### NBA Random Walk
+# NBA Random Walk
 
----
+<br>
 
-Goals:
+![nba 75 logo](https://wallpaperaccess.com/full/1305340.jpg)
+
+
+# Goals:
 
 1. Update the estimates of Gabel and Redner (https://arxiv.org/pdf/1109.2825.pdf) for the last 8 NBA seasons, which include the following variables:
     
@@ -20,11 +23,10 @@ Goals:
 
 <br>
 
-3. Other goals
+3. Other objectives
  
     - Maintain a rich play-by-play data set for all games played in the seasons under consideration (2014-15 to 2021-22); see pbp_games
 
     - Understand the impact of shot selection (small ball; taking more threes) on the probability distribution of lead changes, the distribution of final point spreads, etc.
 
     - Find funny statistical outliers 
-    

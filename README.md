@@ -2,7 +2,8 @@
 
 <br>
 
-![nba 75 logo](https://wallpaperaccess.com/full/1305340.jpg)
+<img src="https://wallpaperaccess.com/full/1305340.jpg" width="250" height="200" />
+
 
 
 # Goals:

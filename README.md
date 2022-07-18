@@ -36,7 +36,6 @@
 
     - Find funny statistical outliers 
 
----
 
 # Some initial numbers
 

@@ -43,7 +43,7 @@ Gabel and Redner investigated all games from 2006/07 to 2009/10. The average sco
 
 As expected, the general characteristics of the game remain the same. For one, The probability distributon of time elapsed between successive scoring events is still appproximately linear on the log scale. The initial uptick can be explained by the change of possession as well as the 24-second shot-clock. 
 
-<image src="https://github.com/bryantx22/nba_random_walk/blob/main/figures/delta_t_prob_updated.png?raw=true" />
+<image src="https://github.com/bryantx22/nba_random_walk/blob/main/figures/delta_t_prob.png?raw=true" />
 
 Also, scoring rate remains roughly constant over time, with the same deviations Gabel and Redner noted at the beginning as well as the end of quarters. 
 

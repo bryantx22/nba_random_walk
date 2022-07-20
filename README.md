@@ -12,19 +12,20 @@
 
 # Objectives:
 
-1. Update the estimates of Gabel and Redner (https://arxiv.org/pdf/1109.2825.pdf) for the last 8 NBA seasons (2014/15 - 2021/22), which include the following variables:
+1. Update the estimates of Gabel and Redner (https://arxiv.org/pdf/1109.2825.pdf) for the last 8 NBA seasons (2014/15 - 2021/22) and calculate new ones:
     
-    - Scoring rate 
-    - Probability distribution of time-elapsed between successive scoring events
+    - Scoring rate and the composition of scoring plays
+    - Probability distribution of time-elapsed between successive scoring events, of the # of lead changes, and of points differentials
     - The anti-persistence parameter 
-    - etc.
+    - The linear restoring force when teams are leading (probability that the leading team scores again given a lead of size $x$)
 
 <br>
 
 2. To model scoring as an anti-persistence random walk and <strong> compare outcomes against prominent prediction models </strong>
 
     - With the above parameters and the best fit $\sigma^2$ of the team strength distribution - per Gabel and Redner
-    - Assign intrinsic strength for teams and simulate match outcomes; compare results with promiment prediction models listed in Perricone, Shaw and Swieschowicz (http://cs229.stanford.edu/proj2016/report/PerriconeShawSwiechowicz-PredictingResultsforProfessionalBasketballUsingNBAAPIData.pdf).
+    - Assign intrinsic strength for teams and simulate match outcomes; compare results with promiment prediction models listed in Perricone, Shaw and Swieschowicz (http://cs229.stanford.edu/proj2016/report/PerriconeShawSwiechowicz-PredictingResultsforProfessionalBasketballUsingNBAAPIData.pdf)
+        - Specifically: for the seasons Perricone, Shaw and Swieschowicz used for validation: use the first half to estimate the relevant parameters (plus assign intrinsic strengths to teams) $\rightarrow$ predict outcomes on the second half 
 
 <br>
 
@@ -32,7 +33,8 @@
  
     - Maintain a rich play-by-play data set for all games played in the seasons under consideration (2014-15 to 2021-22); see pbp_games
 
-    - Understand the impact of shot selection (small ball; taking more threes) on the probability distribution of lead changes, the distribution of final point spreads, etc.
+    - Construct an interface to investigate the causal impacts of treatments
+        - e.g.: Understand the impact of shot selection (small ball; taking more threes) on the probability distribution of lead changes, the distribution of final point spreads, etc.
 
     - Find funny statistical outliers 
 

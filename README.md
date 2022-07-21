@@ -56,4 +56,4 @@ Curiously, while the anti-persistence parameter does not differ much from Gabel 
 
 <image src="https://github.com/bryantx22/nba_random_walk/blob/main/figures/restoring_force.png" height="400"/>
 
-<strong> To be continued...] </strong>
+<strong> [To be continued...] </strong>

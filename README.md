@@ -33,7 +33,7 @@
 3. Other Goals:
  
     - Maintain a rich play-by-play data set for all games played in the seasons under consideration (2014-15 to 2021-22); see pbp_games
-
+    - Understand the evolution of each team's strength over different seasons
     - Construct an interface to investigate the causal impacts of treatments
         - e.g.: Understand the impact of shot selection (small ball; taking more threes) on the probability distribution of lead changes, the distribution of final point spreads, etc.
 
@@ -48,12 +48,12 @@ As expected, the general characteristics of the game remain the same. For one, T
 
 <image src="https://github.com/bryantx22/nba_random_walk/blob/main/figures/delta_t_prob.png?raw=true" height="400"/>
 
-Also, scoring rate remains roughly constant over time, with the same deviations Gabel and Redner noted at the beginning as well as the end of quarters. 
+Likewise, scoring rate remains roughly constant over time, with the same deviations Gabel and Redner noted at the beginning as well as the end of quarters. 
 
 <image src="https://github.com/bryantx22/nba_random_walk/blob/main/figures/scoring_rate.png?raw=true" height="400"/>
 
-Curiously, while the anti-persistence parameter does not differ much from Gabel and Redner's calculation (0.350, +0.002 compared to Gabel and Redner's estimate) the linear restoring force identified by Gabel and Redner is absent. Whereas they observed that the probability of the team in the lead scoring again decreases apx. linearly with the size of the lead, the more recent data suggests the opposite, though the growth in probability is rather small. Still, theoretically, this would make lead changes more sparse and give rise to blow-outs:
+Curiously, while the anti-persistence parameter does not differ much from Gabel and Redner's calculation (0.350, +0.002 compared to Gabel and Redner's estimate) <strong> the linear restoring force identified by Gabel and Redner is absent </strong>. Whereas they observed that the probability of the team in the lead scoring again decreases apx. linearly with the size of the lead, the more recent data suggests the opposite, though the growth in probability is rather small. Still, theoretically, <strong> this would make lead changes more sparse and give rise to blow-outs </strong>:
 
 <image src="https://github.com/bryantx22/nba_random_walk/blob/main/figures/restoring_force.png" height="400"/>
 
-[To be continued...]
+<strong> To be continued...] </strong>

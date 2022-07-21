@@ -18,6 +18,7 @@
     - Probability distribution of time-elapsed between successive scoring events, of the # of lead changes, and of points differentials
     - The anti-persistence parameter 
     - The linear restoring force when teams are leading (probability that the leading team scores again given a lead of size $x$)
+    - Characterize the "arcsine" law in the scenario of this asymetric, anti-persistent random walk
 
 <br>
 
@@ -41,7 +42,7 @@
 
 # Some initial numbers
 
-Gabel and Redner investigated all games from 2006/07 to 2009/10. The average scoring rate (scoring plays/sec) they found was 0.03291 and the average point-value per scoring play was 2.0894. In constrast, for the last 8 seasons,though the average scoring rate is roughly the same 0.03318, the average point-value per scoring play has risen to <strong> 2.1364 </strong>. This increase can be mostly explained by 3-point-plays acounting for <strong> 24% instead of 17% of scoring plays </strong>. It remains to be explained how this phenonmenon impacts other variables of interest, such as the number of lead changes per game. 
+Gabel and Redner investigated all games from 2006/07 to 2009/10. The average scoring rate (scoring plays/sec) they found was 0.03291 and the average point-value per scoring play was 2.0894. In constrast, for the last 8 seasons, while the average scoring rate is aronnd the same at 0.0346, the average point-value per scoring play has risen to <strong> 2.1403 </strong>. This increase can be mostly explained by 3-point-plays acounting for <strong> 24.7% instead of 17% of scoring plays </strong>. It remains to be explained how this phenonmenon impacts other variables of interest, such as the number of lead changes per game. 
 
 As expected, the general characteristics of the game remain the same. For one, The probability distributon of time elapsed between successive scoring events is still appproximately linear on the log scale. The initial uptick can be explained by the change of possession as well as the 24-second shot-clock. 
 
@@ -50,6 +51,10 @@ As expected, the general characteristics of the game remain the same. For one, T
 Also, scoring rate remains roughly constant over time, with the same deviations Gabel and Redner noted at the beginning as well as the end of quarters. 
 
 <image src="https://github.com/bryantx22/nba_random_walk/blob/main/figures/scoring_rate.png?raw=true" />
+
+Curiously, while the anti-persistence parameter does not differ much from Gabel and Redner's calculation (0.350, +0.002 compared to Gabel and Redner's estimate) the linear restoring force identified by Gabel and Redner is absent. Whereas they observed that the probability of the team in the lead scoring again decreases apx. linearly with the size of the lead, the more recent data suggests the opposite, though the growth in probability is rather small. Still, theoretically, this would make lead changes more sparse and give rise to blow-outs:
+
+
 
 
 [To be continued...]

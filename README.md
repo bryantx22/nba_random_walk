@@ -54,7 +54,6 @@ Also, scoring rate remains roughly constant over time, with the same deviations 
 
 Curiously, while the anti-persistence parameter does not differ much from Gabel and Redner's calculation (0.350, +0.002 compared to Gabel and Redner's estimate) the linear restoring force identified by Gabel and Redner is absent. Whereas they observed that the probability of the team in the lead scoring again decreases apx. linearly with the size of the lead, the more recent data suggests the opposite, though the growth in probability is rather small. Still, theoretically, this would make lead changes more sparse and give rise to blow-outs:
 
-
-
+<image src="https://github.com/bryantx22/nba_random_walk/blob/main/figures/restoring_force.png" />
 
 [To be continued...]

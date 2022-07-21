@@ -18,7 +18,7 @@
     - Probability distribution of time-elapsed between successive scoring events, of the # of lead changes, and of points differentials
     - The anti-persistence parameter 
     - The linear restoring force when teams are leading (probability that the leading team scores again given a lead of size $x$)
-    - Characterize the "arcsine" law in the scenario of this asymetric, anti-persistent random walk
+    - Characterize the "arcsine law" in the scenario of this asymetric, anti-persistent random walk
 
 <br>
 

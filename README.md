@@ -4,10 +4,10 @@
 <img src="https://wallpaperaccess.com/full/1305340.jpg" width="250" height="200" />
 <br> <br>
 
-### Contents 
+## Contents 
 
-* Defining objectives
-* Initial Results
+* <a href=https://github.com/bryantx22/nba_random_walk#objectives> Defining objectives </a>
+* <a href=https://github.com/bryantx22/nba_random_walk/blob/main/README.md#some-initial-numbers> Initial numbers </a>
 
 
 # Objectives:

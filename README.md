@@ -46,14 +46,14 @@ Gabel and Redner investigated all games from 2006/07 to 2009/10. The average sco
 
 As expected, the general characteristics of the game remain the same. For one, The probability distributon of time elapsed between successive scoring events is still appproximately linear on the log scale. The initial uptick can be explained by the change of possession as well as the 24-second shot-clock. 
 
-<image src="https://github.com/bryantx22/nba_random_walk/blob/main/figures/delta_t_prob.png?raw=true" />
+<image src="https://github.com/bryantx22/nba_random_walk/blob/main/figures/delta_t_prob.png?raw=true" height="400"/>
 
 Also, scoring rate remains roughly constant over time, with the same deviations Gabel and Redner noted at the beginning as well as the end of quarters. 
 
-<image src="https://github.com/bryantx22/nba_random_walk/blob/main/figures/scoring_rate.png?raw=true" />
+<image src="https://github.com/bryantx22/nba_random_walk/blob/main/figures/scoring_rate.png?raw=true" height="400"/>
 
 Curiously, while the anti-persistence parameter does not differ much from Gabel and Redner's calculation (0.350, +0.002 compared to Gabel and Redner's estimate) the linear restoring force identified by Gabel and Redner is absent. Whereas they observed that the probability of the team in the lead scoring again decreases apx. linearly with the size of the lead, the more recent data suggests the opposite, though the growth in probability is rather small. Still, theoretically, this would make lead changes more sparse and give rise to blow-outs:
 
-<image src="https://github.com/bryantx22/nba_random_walk/blob/main/figures/restoring_force.png" />
+<image src="https://github.com/bryantx22/nba_random_walk/blob/main/figures/restoring_force.png" height="400"/>
 
 [To be continued...]
